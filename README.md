@@ -1,0 +1,3 @@
+# Bellwether
+
+Welcome to Bellwether Books, the premier online destination for discovering your next great read. As a bellwether in the literary world, our website sets the trend by curating the finest books across a variety of genres. With the tagline "Find your next best read," we guide you through an expertly selected collection, ensuring that every recommendation resonates with quality and relevance. Whether you're into thrilling mysteries, heartfelt romances, or thought-provoking non-fiction, Bellwether Books is your trusted guide to uncovering literary gems that will captivate and inspire you.

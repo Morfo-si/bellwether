@@ -1,0 +1,10 @@
+baseURL = 'https://bellwether.blog/'
+languageCode = 'en-us'
+title = 'Bellwether'
+
+[params]
+tagline = "Find your next best read."
+
+twitter = "https://twitter.com/Bellwether"
+instagram = "https://instagram.com/Bellwether"
+images = [ "favicon.png" ]

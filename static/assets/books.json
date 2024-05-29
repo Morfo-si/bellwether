@@ -1,0 +1,604 @@
+{
+    "genres": {
+        "literature+fiction+classics+date-desc-rank": [
+            {
+                "title": "To the Lighthouse (Oxford World’s Classics) ",
+                "author": "Virginia Woolf",
+                "price": "$0.99",
+                "cover_url": "https://m.media-amazon.com/images/I/9127L042tlL._AC_UY218_.jpg",
+                "link": "https://www.amazon.com/Lighthouse-Virginia-Woolf-ebook/dp/B00ELCXRJE/ref=sr_1_1?dib=eyJ2IjoiMSJ9.NUE_G03cg6M57dqOzNpHf-FLOfSLVMEWzz0-4EkMZCLyOm2nENVWVgUXbrjMJxWhe9TABJgTK6vvkH63vVmoWYY7u3-sD7pCSZ0xrAOotEJuNK3ih201vOEbmn_ZZ0fgrn1jTio8iJvmRLJ_MlnwgCaz4CghmZ_2b0p0jgjQVeRHRf7TEyM64rcsSxIq_WruETREQIbKQ--Kit152OSWLXiOGi_x-OrJfpH2hv2V72g.LaTNXrZmd_-58E5JUICXPQgCmr5rxlCOsjJlXka4H7I\u0026dib_tag=se\u0026keywords=literature+fiction+classics\u0026qid=1716981178\u0026sr=8-1"
+            },
+            {
+                "title": "The Brothers Karamazov: A Novel in Four Parts and an Epilogue (Penguin Classics) ",
+                "author": "Fyodor Dostoyevsky and David McDuff",
+                "price": "$10.99",
+                "cover_url": "https://m.media-amazon.com/images/I/81IE8AwMvqL._AC_UY218_.jpg",
+                "link": "https://www.amazon.com/Brothers-Karamazov-Novel-Parts-Epilogue/dp/0140449248/ref=sr_1_2?dib=eyJ2IjoiMSJ9.NUE_G03cg6M57dqOzNpHf-FLOfSLVMEWzz0-4EkMZCLyOm2nENVWVgUXbrjMJxWhe9TABJgTK6vvkH63vVmoWYY7u3-sD7pCSZ0xrAOotEJuNK3ih201vOEbmn_ZZ0fgrn1jTio8iJvmRLJ_MlnwgCaz4CghmZ_2b0p0jgjQVeRHRf7TEyM64rcsSxIq_WruETREQIbKQ--Kit152OSWLXiOGi_x-OrJfpH2hv2V72g.LaTNXrZmd_-58E5JUICXPQgCmr5rxlCOsjJlXka4H7I\u0026dib_tag=se\u0026keywords=literature+fiction+classics\u0026qid=1716981178\u0026sr=8-2"
+            },
+            {
+                "title": "The Strange Case of Dr. Jekyll and Mr. Hyde (Dover Thrift Editions: Classic Novels) ",
+                "author": "Robert Louis Stevenson",
+                "price": "$3.00",
+                "cover_url": "https://m.media-amazon.com/images/I/612WX5BV0EL._AC_UY218_.jpg",
+                "link": "https://www.amazon.com/Strange-Jekyll-Dover-Thrift-Editions/dp/0486266885/ref=sr_1_3?dib=eyJ2IjoiMSJ9.NUE_G03cg6M57dqOzNpHf-FLOfSLVMEWzz0-4EkMZCLyOm2nENVWVgUXbrjMJxWhe9TABJgTK6vvkH63vVmoWYY7u3-sD7pCSZ0xrAOotEJuNK3ih201vOEbmn_ZZ0fgrn1jTio8iJvmRLJ_MlnwgCaz4CghmZ_2b0p0jgjQVeRHRf7TEyM64rcsSxIq_WruETREQIbKQ--Kit152OSWLXiOGi_x-OrJfpH2hv2V72g.LaTNXrZmd_-58E5JUICXPQgCmr5rxlCOsjJlXka4H7I\u0026dib_tag=se\u0026keywords=literature+fiction+classics\u0026qid=1716981178\u0026sr=8-3"
+            }
+        ],
+        "literature+fiction+classics+exact-aware-popularity-rank": [
+            {
+                "title": "1984: 75th Anniversary ",
+                "author": "George Orwell and Erich Fromm",
+                "price": "$6.49",
+                "cover_url": "https://m.media-amazon.com/images/I/71rpa1-kyvL._AC_UY218_.jpg",
+                "link": "https://www.amazon.com/1984-Signet-Classics-George-Orwell/dp/0451524934/ref=sr_1_1?dib=eyJ2IjoiMSJ9.82h2zazPiM3jOcnkGfoF1HDlB3_xFSWCk9W-sLIzMcUrsR6qSno3pDcc8Zb-GzOVI0y0s_HHc5RGhCUfW-SF6VvBDTa1dVJisV02cPmpesLv_FngdJy9-ewRgjScod5hUAthBHIItuoT7WCODMi0rKV5kVhMiFHU7N6XvoPcQuN2-MKi_4b41t2sEmis-x6bxsQGbTNaDaM-LVkpWZCN-rR4fEM4ymoTEp5Cxjo9Yas.dnhsbb7uD_o3fTv9KZjIsbN9Fej28Ko369WP2y-IFrs\u0026dib_tag=se\u0026keywords=literature+fiction+classics\u0026qid=1716981170\u0026sr=8-1"
+            },
+            {
+                "title": "Flowers for Algernon ",
+                "author": "Daniel Keyes",
+                "price": "$1.99",
+                "cover_url": "https://m.media-amazon.com/images/I/819dTM9Lz5L._AC_UY218_.jpg",
+                "link": "https://www.amazon.com/Flowers-Algernon-Daniel-Keyes-ebook/dp/B003WJQ74E/ref=sr_1_2?dib=eyJ2IjoiMSJ9.82h2zazPiM3jOcnkGfoF1HDlB3_xFSWCk9W-sLIzMcUrsR6qSno3pDcc8Zb-GzOVI0y0s_HHc5RGhCUfW-SF6VvBDTa1dVJisV02cPmpesLv_FngdJy9-ewRgjScod5hUAthBHIItuoT7WCODMi0rKV5kVhMiFHU7N6XvoPcQuN2-MKi_4b41t2sEmis-x6bxsQGbTNaDaM-LVkpWZCN-rR4fEM4ymoTEp5Cxjo9Yas.dnhsbb7uD_o3fTv9KZjIsbN9Fej28Ko369WP2y-IFrs\u0026dib_tag=se\u0026keywords=literature+fiction+classics\u0026qid=1716981170\u0026sr=8-2"
+            },
+            {
+                "title": "The Bell Jar (Modern Classics) ",
+                "author": "Sylvia Plath",
+                "price": "$10.79",
+                "cover_url": "https://m.media-amazon.com/images/I/81wUVpREPSL._AC_UY218_.jpg",
+                "link": "https://www.amazon.com/Bell-Jar-Modern-Classics/dp/0060837020/ref=sr_1_3?dib=eyJ2IjoiMSJ9.82h2zazPiM3jOcnkGfoF1HDlB3_xFSWCk9W-sLIzMcUrsR6qSno3pDcc8Zb-GzOVI0y0s_HHc5RGhCUfW-SF6VvBDTa1dVJisV02cPmpesLv_FngdJy9-ewRgjScod5hUAthBHIItuoT7WCODMi0rKV5kVhMiFHU7N6XvoPcQuN2-MKi_4b41t2sEmis-x6bxsQGbTNaDaM-LVkpWZCN-rR4fEM4ymoTEp5Cxjo9Yas.dnhsbb7uD_o3fTv9KZjIsbN9Fej28Ko369WP2y-IFrs\u0026dib_tag=se\u0026keywords=literature+fiction+classics\u0026qid=1716981170\u0026sr=8-3"
+            }
+        ],
+        "literature+fiction+contemporary+date-desc-rank": [
+            {
+                "title": "Dead Head: Sweetpea, Book 3 ",
+                "author": "Georgia Maguire, C. J. Skuse, et al.",
+                "price": "$0.00",
+                "cover_url": "https://m.media-amazon.com/images/I/71jhpfXYfNL._AC_UY218_.jpg",
+                "link": "https://www.amazon.com/Dead-Head-Sweetpea-Book-3/dp/B08Q642THY/ref=sr_1_1?dib=eyJ2IjoiMSJ9.ZcR0x2l8e3nJniMc965ci_maPGv6UQAK77B7TR4SZIPCqD2YmxIf5JzWD4Fn-Zt-oyVHG0SvDTPKDvVjuXMi9lPdrLG7mpzhrrXVBQvjthZ6QV2hZycRQwUe4jCcYw7UuWxEfY1pYPClNfYQe6pE5nQEFEDmZfhkkMHmsBVbqH0grD4pnjUe14IVmIgQAfK5wJFARPbUxnNdLMxf2fA12CQJVUj10xylngya3PSAy34.OEBM6GGYIb8jGETW6Zfb76hH0G3zKb2AUZMrMxdx1MU\u0026dib_tag=se\u0026keywords=literature+fiction+contemporary\u0026qid=1716981193\u0026sr=8-1"
+            },
+            {
+                "title": "The Book of Doors: A Novel ",
+                "author": "Gareth Brown",
+                "price": "$14.99",
+                "cover_url": "https://m.media-amazon.com/images/I/714OwORH4eL._AC_UY218_.jpg",
+                "link": "https://www.amazon.com/Book-Doors-Novel-Gareth-Brown-ebook/dp/B0C592691B/ref=sr_1_2?dib=eyJ2IjoiMSJ9.ZcR0x2l8e3nJniMc965ci_maPGv6UQAK77B7TR4SZIPCqD2YmxIf5JzWD4Fn-Zt-oyVHG0SvDTPKDvVjuXMi9lPdrLG7mpzhrrXVBQvjthZ6QV2hZycRQwUe4jCcYw7UuWxEfY1pYPClNfYQe6pE5nQEFEDmZfhkkMHmsBVbqH0grD4pnjUe14IVmIgQAfK5wJFARPbUxnNdLMxf2fA12CQJVUj10xylngya3PSAy34.OEBM6GGYIb8jGETW6Zfb76hH0G3zKb2AUZMrMxdx1MU\u0026dib_tag=se\u0026keywords=literature+fiction+contemporary\u0026qid=1716981193\u0026sr=8-2"
+            },
+            {
+                "title": "The Stars we Chase: An uplifting novel about romance, the pursuit of happiness, and forgiveness (Love and Other Dreams Book 5) ",
+                "author": "Belinda Benna",
+                "price": "$3.99",
+                "cover_url": "https://m.media-amazon.com/images/I/71+J2QqtrgL._AC_UY218_.jpg",
+                "link": "https://www.amazon.com/Stars-Chase-uplifting-happiness-forgiveness-ebook/dp/B0CW19VHH3/ref=sr_1_3?dib=eyJ2IjoiMSJ9.ZcR0x2l8e3nJniMc965ci_maPGv6UQAK77B7TR4SZIPCqD2YmxIf5JzWD4Fn-Zt-oyVHG0SvDTPKDvVjuXMi9lPdrLG7mpzhrrXVBQvjthZ6QV2hZycRQwUe4jCcYw7UuWxEfY1pYPClNfYQe6pE5nQEFEDmZfhkkMHmsBVbqH0grD4pnjUe14IVmIgQAfK5wJFARPbUxnNdLMxf2fA12CQJVUj10xylngya3PSAy34.OEBM6GGYIb8jGETW6Zfb76hH0G3zKb2AUZMrMxdx1MU\u0026dib_tag=se\u0026keywords=literature+fiction+contemporary\u0026qid=1716981193\u0026sr=8-3"
+            }
+        ],
+        "literature+fiction+contemporary+exact-aware-popularity-rank": [
+            {
+                "title": "A Flame Unburned: A gloriously heart-rending romantic women's fiction story packed full of heartbreak and hope (The Three Great Loves of Victoria Turnbull Book 1) ",
+                "author": "Isabella Wiles",
+                "price": "$0.00",
+                "cover_url": "https://m.media-amazon.com/images/I/919dYaMEimL._AC_UY218_.jpg",
+                "link": "https://www.amazon.com/Flame-Unburned-heart-wrenching-coming-age-ebook/dp/B08XPVFNZQ/ref=sr_1_1?dib=eyJ2IjoiMSJ9.XTki5gxjSi_pWx7vEHatjiMdLWjyVcLW3GcPSYcy4hUDv3L5v9OgaGW3sKXhPgX-9CPyMTXMFS840RiruYuMT4tFekaIArul22vb-XIMHp8kbqZ_YFrISpaz3yR94-vSvbpdb2K-0ctU-3xqaW2h2cL2tFkEnzFkQaJ8A_x-Oat5ADMb255ZncoJ4NzAFT82PcEZZ-1gYJVzuGviRolftLSZTlkDgO1FEc4unZxBPwg.eySRGx31pVt6Ei4B7zgnmmbFlf0QhrqdE9hpYJ-D2H8\u0026dib_tag=se\u0026keywords=literature+fiction+contemporary\u0026qid=1716981185\u0026sr=8-1"
+            },
+            {
+                "title": "The Lost Bookshop: The most charming and uplifting novel for 2024 and the perfect gift for book lovers! ",
+                "author": "Evie Woods",
+                "price": "$2.99",
+                "cover_url": "https://m.media-amazon.com/images/I/91Sy3S-198L._AC_UY218_.jpg",
+                "link": "https://www.amazon.com/Lost-Bookshop-charming-uplifting-perfect-ebook/dp/B0BMF2M8Z6/ref=sr_1_2?dib=eyJ2IjoiMSJ9.XTki5gxjSi_pWx7vEHatjiMdLWjyVcLW3GcPSYcy4hUDv3L5v9OgaGW3sKXhPgX-9CPyMTXMFS840RiruYuMT4tFekaIArul22vb-XIMHp8kbqZ_YFrISpaz3yR94-vSvbpdb2K-0ctU-3xqaW2h2cL2tFkEnzFkQaJ8A_x-Oat5ADMb255ZncoJ4NzAFT82PcEZZ-1gYJVzuGviRolftLSZTlkDgO1FEc4unZxBPwg.eySRGx31pVt6Ei4B7zgnmmbFlf0QhrqdE9hpYJ-D2H8\u0026dib_tag=se\u0026keywords=literature+fiction+contemporary\u0026qid=1716981185\u0026sr=8-2"
+            },
+            {
+                "title": "Happy Place ",
+                "author": "Emily Henry",
+                "price": "$11.99",
+                "cover_url": "https://m.media-amazon.com/images/I/71oWaTEjEkL._AC_UY218_.jpg",
+                "link": "https://www.amazon.com/Happy-Place-Emily-Henry-ebook/dp/B0B7L29TB7/ref=sr_1_3?dib=eyJ2IjoiMSJ9.XTki5gxjSi_pWx7vEHatjiMdLWjyVcLW3GcPSYcy4hUDv3L5v9OgaGW3sKXhPgX-9CPyMTXMFS840RiruYuMT4tFekaIArul22vb-XIMHp8kbqZ_YFrISpaz3yR94-vSvbpdb2K-0ctU-3xqaW2h2cL2tFkEnzFkQaJ8A_x-Oat5ADMb255ZncoJ4NzAFT82PcEZZ-1gYJVzuGviRolftLSZTlkDgO1FEc4unZxBPwg.eySRGx31pVt6Ei4B7zgnmmbFlf0QhrqdE9hpYJ-D2H8\u0026dib_tag=se\u0026keywords=literature+fiction+contemporary\u0026qid=1716981185\u0026sr=8-3"
+            }
+        ],
+        "mystery+thriller+suspense+crime+date-desc-rank": [
+            {
+                "title": "The Perfect Betrayal (A Jessie Hunt Psychological Suspense Thriller—Book Thirty-Eight) ",
+                "author": "Blake Pierce",
+                "price": "$9.99",
+                "cover_url": "https://m.media-amazon.com/images/I/71gSIgPW-0L._AC_UY218_.jpg",
+                "link": "https://www.amazon.com/Betrayal-Psychological-Suspense-Thriller-Book-Thirty-Eight-ebook/dp/B0D27RCFRQ/ref=sr_1_1?dib=eyJ2IjoiMSJ9.arWJqco_cmhEkV2Zvy75M1lmqSPq6fFLolTb0t5Gj7XbC7c2ASZRbMfrlFDyy86a7jNhlGf69LNO6JPCiRF66SgoA3XOQabv9jcoyhHA2Fgq7nEZQOIL74qQmmODm_uog5ucMGrH_eM_bPyD27fPbr_fx3Ld6fTw-4dKa_EWPIRtlYjtjo1ocJyupeSO0LExYd3drpYUQdo_EeIX6pJq9Sv0Q-elWczWFrMfjFRBw3A.gc8P0iVg8qav0XSet8IKbWESc4NGpffblTmzjohZ05c\u0026dib_tag=se\u0026keywords=mystery+thriller+suspense+crime\u0026qid=1716981205\u0026sr=8-1"
+            },
+            {
+                "title": "The Perfect Prey (A Jessie Hunt Psychological Suspense Thriller—Book Thirty-Seven) ",
+                "author": "Blake Pierce",
+                "price": "$9.99",
+                "cover_url": "https://m.media-amazon.com/images/I/61+QfISBfdL._AC_UY218_.jpg",
+                "link": "https://www.amazon.com/Perfect-Psychological-Suspense-Thriller-Book-Thirty-Seven-ebook/dp/B0D1LJ9KTB/ref=sr_1_2?dib=eyJ2IjoiMSJ9.arWJqco_cmhEkV2Zvy75M1lmqSPq6fFLolTb0t5Gj7XbC7c2ASZRbMfrlFDyy86a7jNhlGf69LNO6JPCiRF66SgoA3XOQabv9jcoyhHA2Fgq7nEZQOIL74qQmmODm_uog5ucMGrH_eM_bPyD27fPbr_fx3Ld6fTw-4dKa_EWPIRtlYjtjo1ocJyupeSO0LExYd3drpYUQdo_EeIX6pJq9Sv0Q-elWczWFrMfjFRBw3A.gc8P0iVg8qav0XSet8IKbWESc4NGpffblTmzjohZ05c\u0026dib_tag=se\u0026keywords=mystery+thriller+suspense+crime\u0026qid=1716981205\u0026sr=8-2"
+            },
+            {
+                "title": "Profile K: From the million-copy bestselling author comes a brand new heart-pounding, gripping psychological thriller for 2024 that will leave crime fans breathless ",
+                "author": "Helen Fields",
+                "price": "$7.99",
+                "cover_url": "https://m.media-amazon.com/images/I/71Xb2X2VlBL._AC_UY218_.jpg",
+                "link": "https://www.amazon.com/Profile-million-copy-bestselling-heart-pounding-psychological-ebook/dp/B0CW38GWSZ/ref=sr_1_3?dib=eyJ2IjoiMSJ9.arWJqco_cmhEkV2Zvy75M1lmqSPq6fFLolTb0t5Gj7XbC7c2ASZRbMfrlFDyy86a7jNhlGf69LNO6JPCiRF66SgoA3XOQabv9jcoyhHA2Fgq7nEZQOIL74qQmmODm_uog5ucMGrH_eM_bPyD27fPbr_fx3Ld6fTw-4dKa_EWPIRtlYjtjo1ocJyupeSO0LExYd3drpYUQdo_EeIX6pJq9Sv0Q-elWczWFrMfjFRBw3A.gc8P0iVg8qav0XSet8IKbWESc4NGpffblTmzjohZ05c\u0026dib_tag=se\u0026keywords=mystery+thriller+suspense+crime\u0026qid=1716981205\u0026sr=8-3"
+            }
+        ],
+        "mystery+thriller+suspense+crime+exact-aware-popularity-rank": [
+            {
+                "title": "Her Dying Secret: A completely addictive and heart-racing crime and mystery thriller (Detective Josie Quinn Book 20) ",
+                "author": "Lisa Regan",
+                "price": "$4.99",
+                "cover_url": "https://m.media-amazon.com/images/I/81CMkbuY++L._AC_UY218_.jpg",
+                "link": "https://www.amazon.com/Her-Dying-Secret-completely-heart-racing-ebook/dp/B0CW99285J/ref=sr_1_1?dib=eyJ2IjoiMSJ9.xuyN7r2OufDXmkcV0NhuiHk65Jf-uI_YHABQPAz6VB5L3ZkGQZbF4yK8MWwbVXcWQU4eCrxfKRJc7__9ndAo8EQTWNrCa-km4toue_nb8uTG8It8w2yK9CtgIGZpX4JNfaGUODXAq5-CPnnDdnDZXH0iPhUnhsQctNsaYP3abmahiW155VtZqH948oEaDjs4j_Kc-kqXDUabI0XHc7ZBQzotO3eOOwC6Gq6_9OoPBLg.onxW_w07_IoaufG8YBIJw-y9dPPTid0GHR2ZkOKQaSk\u0026dib_tag=se\u0026keywords=mystery+thriller+suspense+crime\u0026qid=1716981199\u0026sr=8-1"
+            },
+            {
+                "title": "Dead Inside (A Kelsey Hawk FBI Suspense Thriller—Book One) ",
+                "author": "Kate Bold",
+                "price": "$0.00",
+                "cover_url": "https://m.media-amazon.com/images/I/71tloNCMWEL._AC_UY218_.jpg",
+                "link": "https://www.amazon.com/Dead-Inside-Kelsey-Suspense-Thriller-Book-ebook/dp/B0CM4NCW7D/ref=sr_1_2?dib=eyJ2IjoiMSJ9.xuyN7r2OufDXmkcV0NhuiHk65Jf-uI_YHABQPAz6VB5L3ZkGQZbF4yK8MWwbVXcWQU4eCrxfKRJc7__9ndAo8EQTWNrCa-km4toue_nb8uTG8It8w2yK9CtgIGZpX4JNfaGUODXAq5-CPnnDdnDZXH0iPhUnhsQctNsaYP3abmahiW155VtZqH948oEaDjs4j_Kc-kqXDUabI0XHc7ZBQzotO3eOOwC6Gq6_9OoPBLg.onxW_w07_IoaufG8YBIJw-y9dPPTid0GHR2ZkOKQaSk\u0026dib_tag=se\u0026keywords=mystery+thriller+suspense+crime\u0026qid=1716981199\u0026sr=8-2"
+            },
+            {
+                "title": "Silenced Girls: An absolutely addictive mystery thriller (Agent Tori Hunter Book 1) ",
+                "author": "Roger Stelljes",
+                "price": "$0.00",
+                "cover_url": "https://m.media-amazon.com/images/I/81q7DDGZ+YL._AC_UY218_.jpg",
+                "link": "https://www.amazon.com/Silenced-Girls-absolutely-addictive-thriller-ebook/dp/B08L3L1TJV/ref=sr_1_3?dib=eyJ2IjoiMSJ9.xuyN7r2OufDXmkcV0NhuiHk65Jf-uI_YHABQPAz6VB5L3ZkGQZbF4yK8MWwbVXcWQU4eCrxfKRJc7__9ndAo8EQTWNrCa-km4toue_nb8uTG8It8w2yK9CtgIGZpX4JNfaGUODXAq5-CPnnDdnDZXH0iPhUnhsQctNsaYP3abmahiW155VtZqH948oEaDjs4j_Kc-kqXDUabI0XHc7ZBQzotO3eOOwC6Gq6_9OoPBLg.onxW_w07_IoaufG8YBIJw-y9dPPTid0GHR2ZkOKQaSk\u0026dib_tag=se\u0026keywords=mystery+thriller+suspense+crime\u0026qid=1716981199\u0026sr=8-3"
+            }
+        ],
+        "mystery+thriller+suspense+suspense+date-desc-rank": null,
+        "mystery+thriller+suspense+suspense+exact-aware-popularity-rank": [
+            {
+                "title": "Away From Here (A Nina Veil FBI Suspense Thriller—Book 1) ",
+                "author": "Kate Bold",
+                "price": "$0.00",
+                "cover_url": "https://m.media-amazon.com/images/I/71GgGtALuPL._AC_UY218_.jpg",
+                "link": "https://www.amazon.com/Away-Here-Nina-Suspense-Thriller-Book-ebook/dp/B0CTDBQ6C1/ref=sr_1_1?dib=eyJ2IjoiMSJ9.7nhOV1xHfR3UaBcGbstLFMbRYlBJSr6LnF0uyNb2aGopNkkp18Ny9tcBXhUmKIx9OgJDzCrlxSBsykEQYxOHTTzKDxdll3h6wCb7XPu8cr7FDdmsDb24n9kjNNkPwAYFhD5KVwlZZFEWnUJpX7tW4pRwWwapxNhPNNSqv_PJ3FEQFV0hO-rH-Wp3Wbfi3ccS_fKoAcY2it1_T2cRdacJFGT5S7CcDy_2Lt7kV8UT7vM.BdzXGYvUhN7grt6Ach5IbeyUBSi_wNUbgEs7BE1IrC8\u0026dib_tag=se\u0026keywords=mystery+thriller+suspense+suspense\u0026qid=1716981211\u0026sr=8-1"
+            },
+            {
+                "title": "If She Only Knew: A Riveting Novel of Suspense (The Cahills Book 1) ",
+                "author": "Lisa Jackson",
+                "price": "$0.00",
+                "cover_url": "https://m.media-amazon.com/images/I/71KgkmhYxPL._AC_UY218_.jpg",
+                "link": "https://www.amazon.com/If-She-Only-Knew-Riveting-ebook/dp/B0851T3G6W/ref=sr_1_2?dib=eyJ2IjoiMSJ9.7nhOV1xHfR3UaBcGbstLFMbRYlBJSr6LnF0uyNb2aGopNkkp18Ny9tcBXhUmKIx9OgJDzCrlxSBsykEQYxOHTTzKDxdll3h6wCb7XPu8cr7FDdmsDb24n9kjNNkPwAYFhD5KVwlZZFEWnUJpX7tW4pRwWwapxNhPNNSqv_PJ3FEQFV0hO-rH-Wp3Wbfi3ccS_fKoAcY2it1_T2cRdacJFGT5S7CcDy_2Lt7kV8UT7vM.BdzXGYvUhN7grt6Ach5IbeyUBSi_wNUbgEs7BE1IrC8\u0026dib_tag=se\u0026keywords=mystery+thriller+suspense+suspense\u0026qid=1716981211\u0026sr=8-2"
+            },
+            {
+                "title": "In The Dark (An Elle Keen FBI Suspense Thriller—Book 1) ",
+                "author": "Ava Strong",
+                "price": "$0.00",
+                "cover_url": "https://m.media-amazon.com/images/I/710Gk-iT8bL._AC_UY218_.jpg",
+                "link": "https://www.amazon.com/Dark-Elle-Keen-Suspense-Thriller-Book-ebook/dp/B0CQRTMYY4/ref=sr_1_3?dib=eyJ2IjoiMSJ9.7nhOV1xHfR3UaBcGbstLFMbRYlBJSr6LnF0uyNb2aGopNkkp18Ny9tcBXhUmKIx9OgJDzCrlxSBsykEQYxOHTTzKDxdll3h6wCb7XPu8cr7FDdmsDb24n9kjNNkPwAYFhD5KVwlZZFEWnUJpX7tW4pRwWwapxNhPNNSqv_PJ3FEQFV0hO-rH-Wp3Wbfi3ccS_fKoAcY2it1_T2cRdacJFGT5S7CcDy_2Lt7kV8UT7vM.BdzXGYvUhN7grt6Ach5IbeyUBSi_wNUbgEs7BE1IrC8\u0026dib_tag=se\u0026keywords=mystery+thriller+suspense+suspense\u0026qid=1716981211\u0026sr=8-3"
+            }
+        ],
+        "mystery+thriller+suspense+thrillers+date-desc-rank": null,
+        "mystery+thriller+suspense+thrillers+exact-aware-popularity-rank": [
+            {
+                "title": "Away From Here (A Nina Veil FBI Suspense Thriller—Book 1) ",
+                "author": "Kate Bold",
+                "price": "$0.00",
+                "cover_url": "https://m.media-amazon.com/images/I/71GgGtALuPL._AC_UY218_.jpg",
+                "link": "https://www.amazon.com/Away-Here-Nina-Suspense-Thriller-Book-ebook/dp/B0CTDBQ6C1/ref=sr_1_1?dib=eyJ2IjoiMSJ9.MhlfRVzdJlMqInHy91CVQID_SgGuLfEI3_ltI6aZ2n5M9j1gFeSbei2K9UMrt3uhOgJDzCrlxSBsykEQYxOHTSc8EioWREZLFT2nVT3LDVawZ6NI0gJy8hcnOGgw3ib2co-OJEmjAC1xhzQbZIP2RWePG-V2zGJVcNprBAh_hIN2uQp6mTX-F3UMEWldBbIM9pMdkKX534wa74dRv3Wy7-JzI-J8zqqHCBiVlQufInI.af5qLmdXcP9uhsclHwVZotrQ85IOE_pvSBrB3ppDcJg\u0026dib_tag=se\u0026keywords=mystery+thriller+suspense+thrillers\u0026qid=1716981224\u0026sr=8-1"
+            },
+            {
+                "title": "In The Dark (An Elle Keen FBI Suspense Thriller—Book 1) ",
+                "author": "Ava Strong",
+                "price": "$0.00",
+                "cover_url": "https://m.media-amazon.com/images/I/710Gk-iT8bL._AC_UY218_.jpg",
+                "link": "https://www.amazon.com/Dark-Elle-Keen-Suspense-Thriller-Book-ebook/dp/B0CQRTMYY4/ref=sr_1_2?dib=eyJ2IjoiMSJ9.MhlfRVzdJlMqInHy91CVQID_SgGuLfEI3_ltI6aZ2n5M9j1gFeSbei2K9UMrt3uhOgJDzCrlxSBsykEQYxOHTSc8EioWREZLFT2nVT3LDVawZ6NI0gJy8hcnOGgw3ib2co-OJEmjAC1xhzQbZIP2RWePG-V2zGJVcNprBAh_hIN2uQp6mTX-F3UMEWldBbIM9pMdkKX534wa74dRv3Wy7-JzI-J8zqqHCBiVlQufInI.af5qLmdXcP9uhsclHwVZotrQ85IOE_pvSBrB3ppDcJg\u0026dib_tag=se\u0026keywords=mystery+thriller+suspense+thrillers\u0026qid=1716981224\u0026sr=8-2"
+            },
+            {
+                "title": "What’s Left (A Peyton Risk Suspense Thriller—Book 2) ",
+                "author": "Ella Swift",
+                "price": "$2.99",
+                "cover_url": "https://m.media-amazon.com/images/I/91pl1sJ2qKL._AC_UY218_.jpg",
+                "link": "https://www.amazon.com/Whats-Left-Peyton-Suspense-Thriller-Book-ebook/dp/B0CMF965MD/ref=sr_1_3?dib=eyJ2IjoiMSJ9.MhlfRVzdJlMqInHy91CVQID_SgGuLfEI3_ltI6aZ2n5M9j1gFeSbei2K9UMrt3uhOgJDzCrlxSBsykEQYxOHTSc8EioWREZLFT2nVT3LDVawZ6NI0gJy8hcnOGgw3ib2co-OJEmjAC1xhzQbZIP2RWePG-V2zGJVcNprBAh_hIN2uQp6mTX-F3UMEWldBbIM9pMdkKX534wa74dRv3Wy7-JzI-J8zqqHCBiVlQufInI.af5qLmdXcP9uhsclHwVZotrQ85IOE_pvSBrB3ppDcJg\u0026dib_tag=se\u0026keywords=mystery+thriller+suspense+thrillers\u0026qid=1716981224\u0026sr=8-3"
+            }
+        ],
+        "non-fiction+biographies+memoirs+date-desc-rank": [
+            {
+                "title": "Love, Pamela: A Memoir of Prose, Poetry, and Truth ",
+                "author": "Pamela Anderson and HarperAudio",
+                "price": "$0.00",
+                "cover_url": "https://m.media-amazon.com/images/I/91hBKYmzFOL._AC_UY218_.jpg",
+                "link": "https://www.amazon.com/Love-Pamela-Memoir-Prose-Poetry/dp/B0BCHBT2LH/ref=sr_1_1?dib=eyJ2IjoiMSJ9.FWepq8PU2i1wz6LjdyCdSUgv-tkMxUaTRgm71SZbSjekF8c44YnEsWqQVR3wyg0IfNtlqoVDb76BcaPVaeZmqKT2gzx93UsduBR1n2jOtcMer4ngNMu-RzrrNerg_qTUuA1Ue71-IGR_hVKpUuK64xMUxmoZxowsD0ESIWTMzh--ra9fKb-tjeAuXtRXXzFYqDQejaaEy1hX6HXGadHdfW3Rf1lD2GzfdUjR5tkvZW4.8F5X9jLcsjRO-cW8wpxccKagyAeRo8w5SmckvPUOGu4\u0026dib_tag=se\u0026keywords=non-fiction+biographies+memoirs\u0026qid=1716981292\u0026sr=8-1"
+            },
+            {
+                "title": "Shattered: A Memoir ",
+                "author": "Hanif Kureishi and HarperAudio",
+                "price": "$0.00",
+                "cover_url": "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_UY218_.gif",
+                "link": "https://www.amazon.com/Audible-Shattered-A-Memoir/dp/B0D2JJXN1F/ref=sr_1_2?dib=eyJ2IjoiMSJ9.FWepq8PU2i1wz6LjdyCdSUgv-tkMxUaTRgm71SZbSjekF8c44YnEsWqQVR3wyg0IfNtlqoVDb76BcaPVaeZmqKT2gzx93UsduBR1n2jOtcMer4ngNMu-RzrrNerg_qTUuA1Ue71-IGR_hVKpUuK64xMUxmoZxowsD0ESIWTMzh--ra9fKb-tjeAuXtRXXzFYqDQejaaEy1hX6HXGadHdfW3Rf1lD2GzfdUjR5tkvZW4.8F5X9jLcsjRO-cW8wpxccKagyAeRo8w5SmckvPUOGu4\u0026dib_tag=se\u0026keywords=non-fiction+biographies+memoirs\u0026qid=1716981292\u0026sr=8-2"
+            },
+            {
+                "title": "Crapalachia: A Biography of Place ",
+                "author": "Scott McClanahan",
+                "price": "$11.99",
+                "cover_url": "https://m.media-amazon.com/images/I/814w3siaNiL._AC_UY218_.jpg",
+                "link": "https://www.amazon.com/Crapalachia-Biography-Place-Scott-McClanahan-ebook/dp/B00BE65K8Q/ref=sr_1_3?dib=eyJ2IjoiMSJ9.FWepq8PU2i1wz6LjdyCdSUgv-tkMxUaTRgm71SZbSjekF8c44YnEsWqQVR3wyg0IfNtlqoVDb76BcaPVaeZmqKT2gzx93UsduBR1n2jOtcMer4ngNMu-RzrrNerg_qTUuA1Ue71-IGR_hVKpUuK64xMUxmoZxowsD0ESIWTMzh--ra9fKb-tjeAuXtRXXzFYqDQejaaEy1hX6HXGadHdfW3Rf1lD2GzfdUjR5tkvZW4.8F5X9jLcsjRO-cW8wpxccKagyAeRo8w5SmckvPUOGu4\u0026dib_tag=se\u0026keywords=non-fiction+biographies+memoirs\u0026qid=1716981292\u0026sr=8-3"
+            }
+        ],
+        "non-fiction+biographies+memoirs+exact-aware-popularity-rank": [
+            {
+                "title": "They Called Us Enemy ",
+                "author": "George Takei, Justin Eisinger, et al.",
+                "price": "$11.80",
+                "cover_url": "https://m.media-amazon.com/images/I/71TX6MAEgzL._AC_UY218_.jpg",
+                "link": "https://www.amazon.com/They-Called-Enemy-George-Takei/dp/1603094504/ref=sr_1_1?dib=eyJ2IjoiMSJ9.49nmtDGIpmACHi7hoK1Yv4KL1TWcCzrTFf9wGXHjHIVc08R_fy2zQsgzOAjzs-CIaERhmH87Rf0bJq9IAdusCLJ3ABCqtfCFn-P76L_XraxZuo3mgzRKnRg7PgjGTBUIdF7htvnm0Y5vwnRAoEsyUIw4w20n4KhXeEYcw76Bzea6l9OuaZC358Jw5HAyASm9YSEghT_NEE36iPaqgh12-ZTn3uVu3KZktUkh4M-nYNc.ZF5SoRv9nDSEPpW3eUaH76y6iyBv3elmDVUWzcvrPZI\u0026dib_tag=se\u0026keywords=non-fiction+biographies+memoirs\u0026qid=1716981285\u0026sr=8-1"
+            },
+            {
+                "title": "Persepolis: The Story of a Childhood ",
+                "author": "Marjane Satrapi",
+                "price": "$9.99",
+                "cover_url": "https://m.media-amazon.com/images/I/81iniAfNnxL._AC_UY218_.jpg",
+                "link": "https://www.amazon.com/Persepolis-Childhood-Pantheon-Graphic-Library/dp/037571457X/ref=sr_1_2?dib=eyJ2IjoiMSJ9.49nmtDGIpmACHi7hoK1Yv4KL1TWcCzrTFf9wGXHjHIVc08R_fy2zQsgzOAjzs-CIaERhmH87Rf0bJq9IAdusCLJ3ABCqtfCFn-P76L_XraxZuo3mgzRKnRg7PgjGTBUIdF7htvnm0Y5vwnRAoEsyUIw4w20n4KhXeEYcw76Bzea6l9OuaZC358Jw5HAyASm9YSEghT_NEE36iPaqgh12-ZTn3uVu3KZktUkh4M-nYNc.ZF5SoRv9nDSEPpW3eUaH76y6iyBv3elmDVUWzcvrPZI\u0026dib_tag=se\u0026keywords=non-fiction+biographies+memoirs\u0026qid=1716981285\u0026sr=8-2"
+            },
+            {
+                "title": "Educated: A Memoir ",
+                "author": "Tara Westover, Julia Whelan, et al.",
+                "price": "$0.00",
+                "cover_url": "https://m.media-amazon.com/images/I/61xta2jWBBL._AC_UY218_.jpg",
+                "link": "https://www.amazon.com/Educated-Tara-Westover-audiobook/dp/B075F68BFV/ref=sr_1_3?dib=eyJ2IjoiMSJ9.49nmtDGIpmACHi7hoK1Yv4KL1TWcCzrTFf9wGXHjHIVc08R_fy2zQsgzOAjzs-CIaERhmH87Rf0bJq9IAdusCLJ3ABCqtfCFn-P76L_XraxZuo3mgzRKnRg7PgjGTBUIdF7htvnm0Y5vwnRAoEsyUIw4w20n4KhXeEYcw76Bzea6l9OuaZC358Jw5HAyASm9YSEghT_NEE36iPaqgh12-ZTn3uVu3KZktUkh4M-nYNc.ZF5SoRv9nDSEPpW3eUaH76y6iyBv3elmDVUWzcvrPZI\u0026dib_tag=se\u0026keywords=non-fiction+biographies+memoirs\u0026qid=1716981285\u0026sr=8-3"
+            }
+        ],
+        "non-fiction+business+money+date-desc-rank": [
+            {
+                "title": "Money and Promises: A History of the World in Seven Deals ",
+                "author": "Paolo Zannoni, Mark Elstob, et al.",
+                "price": "$0.00",
+                "cover_url": "https://m.media-amazon.com/images/I/71BWnJ18gtL._AC_UY218_.jpg",
+                "link": "https://www.amazon.com/Money-Promises-History-World-Seven/dp/B0CWSB4L3S/ref=sr_1_1?dib=eyJ2IjoiMSJ9.8EiHqpM2CBYOyNnkAaCKHCkGDbj2PgjLy0y8-MXSbxf_-pbpm-FziKx1I50i54y35XGR1WKgrByetNu-wj0TwC80gP02X7cLXu41x1maV_W_xQBP_nuN9vzwVIkh-1AGZ2znuXYpra9cODWKV5x9y4NPMkOStt0w1Dy7wLEJSxkW921YD_WhlGWi8_Co26OCP4ZH3lWI87Lx6HDspFA1KnCwb99u_8bkRjODoCTrzV4.ByaXnBB4DEgTaTovNjJW0i88XdZ3OkE75dk9y9PBLvM\u0026dib_tag=se\u0026keywords=non-fiction+business+money\u0026qid=1716981369\u0026sr=8-1"
+            },
+            {
+                "title": "Become A Business Money Magnet: Simple habits to manage your money and supercharge your profits ",
+                "author": "Justine McLean",
+                "price": "$12.99",
+                "cover_url": "https://m.media-amazon.com/images/I/71OTmmSrXyL._AC_UY218_.jpg",
+                "link": "https://www.amazon.com/Become-Business-Money-Magnet-supercharge-ebook/dp/B0D38DZDC9/ref=sr_1_2?dib=eyJ2IjoiMSJ9.8EiHqpM2CBYOyNnkAaCKHCkGDbj2PgjLy0y8-MXSbxf_-pbpm-FziKx1I50i54y35XGR1WKgrByetNu-wj0TwC80gP02X7cLXu41x1maV_W_xQBP_nuN9vzwVIkh-1AGZ2znuXYpra9cODWKV5x9y4NPMkOStt0w1Dy7wLEJSxkW921YD_WhlGWi8_Co26OCP4ZH3lWI87Lx6HDspFA1KnCwb99u_8bkRjODoCTrzV4.ByaXnBB4DEgTaTovNjJW0i88XdZ3OkE75dk9y9PBLvM\u0026dib_tag=se\u0026keywords=non-fiction+business+money\u0026qid=1716981369\u0026sr=8-2"
+            },
+            {
+                "title": "How To Set Goals For Your Business That Actually Make Money (Financial Freedom Series Book 4) ",
+                "author": "M.K. Arman ",
+                "price": "$0.00",
+                "cover_url": "https://m.media-amazon.com/images/I/61WwzX6s3cL._AC_UY218_.jpg",
+                "link": "https://www.amazon.com/Goals-Business-Actually-Financial-Freedom-ebook/dp/B0D4VXK3FM/ref=sr_1_3?dib=eyJ2IjoiMSJ9.8EiHqpM2CBYOyNnkAaCKHCkGDbj2PgjLy0y8-MXSbxf_-pbpm-FziKx1I50i54y35XGR1WKgrByetNu-wj0TwC80gP02X7cLXu41x1maV_W_xQBP_nuN9vzwVIkh-1AGZ2znuXYpra9cODWKV5x9y4NPMkOStt0w1Dy7wLEJSxkW921YD_WhlGWi8_Co26OCP4ZH3lWI87Lx6HDspFA1KnCwb99u_8bkRjODoCTrzV4.ByaXnBB4DEgTaTovNjJW0i88XdZ3OkE75dk9y9PBLvM\u0026dib_tag=se\u0026keywords=non-fiction+business+money\u0026qid=1716981369\u0026sr=8-3"
+            }
+        ],
+        "non-fiction+business+money+exact-aware-popularity-rank": [
+            {
+                "title": "Investing for Kids: How to Save, Invest, and Grow Money ",
+                "author": "Dylin Redling and Allison Tom",
+                "price": "$7.98",
+                "cover_url": "https://m.media-amazon.com/images/I/71sXsIBAK1L._AC_UY218_.jpg",
+                "link": "https://www.amazon.com/Investing-Kids-Save-Invest-Money/dp/1647398762/ref=sr_1_1?dib=eyJ2IjoiMSJ9.NmsIVn3SisKui0Q-eD2QFVBH9EPSvqKNexELuP_iqax9gnU1ou8PjQvB3wBEjzsginV3cCjLzUAQWALK42e0N22jMwkoJrfvvqUTj_2FRt0WGHGccnnHtTmi5HCSM0vRSsStDA6dGdWgWt1uCJwIMMTtrtVHBi_SHpaDYLT5263GbvsqWB-BCwtUhJ1JREXoPK8b2T4xlzM4_q7ZZLYChUnvDpaAC_1i1nFl5RSyFTI.B-IcgglnlTy2m9mA6ZLW6hubWeVlfUkjCC4GyUQiME0\u0026dib_tag=se\u0026keywords=non-fiction+business+money\u0026qid=1716981363\u0026sr=8-1"
+            },
+            {
+                "title": "Rich Dad Poor Dad for Teens: The Secrets About Money - That You Don't Learn in School! ",
+                "author": "Robert T. Kiyosaki, Tim Wheeler, et al.",
+                "price": "$0.00",
+                "cover_url": "https://m.media-amazon.com/images/I/81Uf5+FAA0L._AC_UY218_.jpg",
+                "link": "https://www.amazon.com/Rich-Dad-Poor-Dad-for-Teens-audiobook/dp/B00AW511AG/ref=sr_1_2?dib=eyJ2IjoiMSJ9.NmsIVn3SisKui0Q-eD2QFVBH9EPSvqKNexELuP_iqax9gnU1ou8PjQvB3wBEjzsginV3cCjLzUAQWALK42e0N22jMwkoJrfvvqUTj_2FRt0WGHGccnnHtTmi5HCSM0vRSsStDA6dGdWgWt1uCJwIMMTtrtVHBi_SHpaDYLT5263GbvsqWB-BCwtUhJ1JREXoPK8b2T4xlzM4_q7ZZLYChUnvDpaAC_1i1nFl5RSyFTI.B-IcgglnlTy2m9mA6ZLW6hubWeVlfUkjCC4GyUQiME0\u0026dib_tag=se\u0026keywords=non-fiction+business+money\u0026qid=1716981363\u0026sr=8-2"
+            },
+            {
+                "title": "The Theory of Money and Credit ",
+                "author": "Ludwig von Mises",
+                "price": "$11.19",
+                "cover_url": "https://m.media-amazon.com/images/I/7138BW6GbLL._AC_UY218_.jpg",
+                "link": "https://www.amazon.com/Theory-Money-Credit-Ludwig-Mises/dp/1620871610/ref=sr_1_3?dib=eyJ2IjoiMSJ9.NmsIVn3SisKui0Q-eD2QFVBH9EPSvqKNexELuP_iqax9gnU1ou8PjQvB3wBEjzsginV3cCjLzUAQWALK42e0N22jMwkoJrfvvqUTj_2FRt0WGHGccnnHtTmi5HCSM0vRSsStDA6dGdWgWt1uCJwIMMTtrtVHBi_SHpaDYLT5263GbvsqWB-BCwtUhJ1JREXoPK8b2T4xlzM4_q7ZZLYChUnvDpaAC_1i1nFl5RSyFTI.B-IcgglnlTy2m9mA6ZLW6hubWeVlfUkjCC4GyUQiME0\u0026dib_tag=se\u0026keywords=non-fiction+business+money\u0026qid=1716981363\u0026sr=8-3"
+            }
+        ],
+        "non-fiction+health+fitness+dieting+date-desc-rank": [
+            {
+                "title": "Fit for Life: A Comprehensive Guide to Fitness Routines and Workouts (Health, Diet and fitness Book 10) ",
+                "author": "Francis Royce",
+                "price": "$0.00",
+                "cover_url": "https://m.media-amazon.com/images/I/61wrUCb27EL._AC_UY218_.jpg",
+                "link": "https://www.amazon.com/Fit-Life-Comprehensive-Routines-Workouts-ebook/dp/B0D1GX744D/ref=sr_1_1?dib=eyJ2IjoiMSJ9.k7IV0DwDdBr0Te7F-4CaxsiWk05swIfUYT2izhhI0O5YDIEtRc53j-chEMAqMGSxv3K1y7XXdE4Hi3XwvXFJBzt1_f-aCt4AuvfmbhAgFlOQUCUFb-Z4nDxbhHRNdvtHbJ7Qwf3eCVNu0zYAcrw_gDx3l6doPRRDq06q70600hJhVmsUWYpGFtTU5w9Dwz12-YVz0tqy0EYDEgp-E27ohcE8GDkb1k1JOOTN8SLfvaY.Y5chLuSRwe8w-TRKbgRWVW_7EU2owjezMU16PGSJrVE\u0026dib_tag=se\u0026keywords=non-fiction+health+fitness+dieting\u0026qid=1716981318\u0026sr=8-1"
+            },
+            {
+                "title": "A PERSONALIZED GUIDE TO HEALTH AND FITNESS AFTER 45: EMPOWER WOMEN TO TAKE CHARGE OF THEIR HEALTH JOURNEY ",
+                "author": "Dr. Angela C. Williams",
+                "price": "$7.99",
+                "cover_url": "https://m.media-amazon.com/images/I/71ot-Kzy6nL._AC_UY218_.jpg",
+                "link": "https://www.amazon.com/PERSONALIZED-GUIDE-HEALTH-FITNESS-AFTER-ebook/dp/B0CXNJ13M9/ref=sr_1_2?dib=eyJ2IjoiMSJ9.k7IV0DwDdBr0Te7F-4CaxsiWk05swIfUYT2izhhI0O5YDIEtRc53j-chEMAqMGSxv3K1y7XXdE4Hi3XwvXFJBzt1_f-aCt4AuvfmbhAgFlOQUCUFb-Z4nDxbhHRNdvtHbJ7Qwf3eCVNu0zYAcrw_gDx3l6doPRRDq06q70600hJhVmsUWYpGFtTU5w9Dwz12-YVz0tqy0EYDEgp-E27ohcE8GDkb1k1JOOTN8SLfvaY.Y5chLuSRwe8w-TRKbgRWVW_7EU2owjezMU16PGSJrVE\u0026dib_tag=se\u0026keywords=non-fiction+health+fitness+dieting\u0026qid=1716981318\u0026sr=8-2"
+            },
+            {
+                "title": "Over 50 Fitness Men: A Man's Guide to Staying Active and Healthy: The Ultimate Guide for Men over 50 to Reclaim your Health \u0026 Fitness, Lose Fat, Get Toned \u0026 Build Muscle and Achieve Peak. ",
+                "author": "Saurav Deo",
+                "price": "$0.00",
+                "cover_url": "https://m.media-amazon.com/images/I/71kOIxZv3+L._AC_UY218_.jpg",
+                "link": "https://www.amazon.com/Over-50-Fitness-Men-Ultimate-ebook/dp/B0CXXL7MMR/ref=sr_1_3?dib=eyJ2IjoiMSJ9.k7IV0DwDdBr0Te7F-4CaxsiWk05swIfUYT2izhhI0O5YDIEtRc53j-chEMAqMGSxv3K1y7XXdE4Hi3XwvXFJBzt1_f-aCt4AuvfmbhAgFlOQUCUFb-Z4nDxbhHRNdvtHbJ7Qwf3eCVNu0zYAcrw_gDx3l6doPRRDq06q70600hJhVmsUWYpGFtTU5w9Dwz12-YVz0tqy0EYDEgp-E27ohcE8GDkb1k1JOOTN8SLfvaY.Y5chLuSRwe8w-TRKbgRWVW_7EU2owjezMU16PGSJrVE\u0026dib_tag=se\u0026keywords=non-fiction+health+fitness+dieting\u0026qid=1716981318\u0026sr=8-3"
+            }
+        ],
+        "non-fiction+health+fitness+dieting+exact-aware-popularity-rank": [
+            {
+                "title": "The Elephant in the Room: One Fat Man's Quest to Get Smaller in a Growing America ",
+                "author": "Tommy TomlinsonA high quality digital reading experience.",
+                "price": "$2.99",
+                "cover_url": "https://m.media-amazon.com/images/I/81TIQo+NnsL._AC_UY218_.jpg",
+                "link": "https://www.amazon.com/Elephant-Room-Smaller-Growing-America-ebook/dp/B07GNTYQL1/ref=sr_1_1?dib=eyJ2IjoiMSJ9.NhbTyxuE0H5Pal_Y0j3njE-GI3QeRPFp5xg0bmH_e5J6XcaCJELwjeg188t93yW2tS1xK1AYQinaauME-7TeONOJPSUbRAAIRhL4aN6Qr9SE4IUbZGqO_QAAzNu-5O-xK1yxaUzNvacjTlZp_WkpGcDB_oGcm2d8HREnrZC96EYfVxvc1sHtsI8FN4Pj899Pa3ThM-Bmcyu-BsSc0F_h5hTQ8DXFiAOYvIQ4VsK7_cY.RsUfZKziLkcN-9qCdr4qEsBESNtJ8Dxrcc7kepfeUDc\u0026dib_tag=se\u0026keywords=non-fiction+health+fitness+dieting\u0026qid=1716981312\u0026sr=8-1"
+            },
+            {
+                "title": "Alimenta tu cerebro [Brain Maker]: El poder de la flora intestinal para curar y proteger tu cerebro... de por vida [The Power of Gut Microbes to Heal and Protect Your Brain... for Life] ",
+                "author": "David Perlmutter, Edson Matus, et al.",
+                "price": "$0.00",
+                "cover_url": "https://m.media-amazon.com/images/I/91Pk5f1aLLL._AC_UY218_.jpg",
+                "link": "https://www.amazon.com/Alimenta-tu-cerebro-Brain-Maker-audiobook/dp/B07F8ZH3Z7/ref=sr_1_2?dib=eyJ2IjoiMSJ9.NhbTyxuE0H5Pal_Y0j3njE-GI3QeRPFp5xg0bmH_e5J6XcaCJELwjeg188t93yW2tS1xK1AYQinaauME-7TeONOJPSUbRAAIRhL4aN6Qr9SE4IUbZGqO_QAAzNu-5O-xK1yxaUzNvacjTlZp_WkpGcDB_oGcm2d8HREnrZC96EYfVxvc1sHtsI8FN4Pj899Pa3ThM-Bmcyu-BsSc0F_h5hTQ8DXFiAOYvIQ4VsK7_cY.RsUfZKziLkcN-9qCdr4qEsBESNtJ8Dxrcc7kepfeUDc\u0026dib_tag=se\u0026keywords=non-fiction+health+fitness+dieting\u0026qid=1716981312\u0026sr=8-2"
+            },
+            {
+                "title": "Change Your Brain, Change Your Body: Use Your Brain to Get and Keep the Body You Have Always Wanted ",
+                "author": "Daniel G. Amen M.D., Marc Cashman, et al.",
+                "price": "$0.00",
+                "cover_url": "https://m.media-amazon.com/images/I/81zi+jlzo8L._AC_UY218_.jpg",
+                "link": "https://www.amazon.com/Change-Your-Brain-Body-Always/dp/B0038NLX6G/ref=sr_1_3?dib=eyJ2IjoiMSJ9.NhbTyxuE0H5Pal_Y0j3njE-GI3QeRPFp5xg0bmH_e5J6XcaCJELwjeg188t93yW2tS1xK1AYQinaauME-7TeONOJPSUbRAAIRhL4aN6Qr9SE4IUbZGqO_QAAzNu-5O-xK1yxaUzNvacjTlZp_WkpGcDB_oGcm2d8HREnrZC96EYfVxvc1sHtsI8FN4Pj899Pa3ThM-Bmcyu-BsSc0F_h5hTQ8DXFiAOYvIQ4VsK7_cY.RsUfZKziLkcN-9qCdr4qEsBESNtJ8Dxrcc7kepfeUDc\u0026dib_tag=se\u0026keywords=non-fiction+health+fitness+dieting\u0026qid=1716981312\u0026sr=8-3"
+            }
+        ],
+        "non-fiction+history+date-desc-rank": [
+            {
+                "title": "A Student Workbook for Land of Hope: An Invitation to the Great American Story (Young Reader's Edition, Volume 1) ",
+                "author": "Wilfred M. McClay and John D. McBride",
+                "price": "$24.99",
+                "cover_url": "https://m.media-amazon.com/images/I/81LenceAkeL._AC_UY218_.jpg",
+                "link": "https://www.amazon.com/Student-Workbook-Land-Hope-Invitation/dp/1641773111/ref=sr_1_1?dib=eyJ2IjoiMSJ9.a4CtyasTXJUnMt5nQbUmFP2VQGBb88jGL3ly25Fymr2FeMySL2UIWQbQcrUNoPbMaozcuHsJqG0eMQUwafdDxsyYXhHFAqDvpcc8DGSoYSqQSGXXHEVa3TgmaHYm3JGyDkNcBvcZBiIBk5apYHXxvn0d-g5Vze7f3F8Xa9vjvYKKu_H2CqbJzFKniHFo3giCSBZ2iAQmL4cgOAOX1-SydWwp27LyZxWAdQ7btvxR72A.jNCOPF7gGSvqV7p6AsbJorbFLuzG1HUX5MTyFpEybEA\u0026dib_tag=se\u0026keywords=non-fiction+history\u0026qid=1716981357\u0026sr=8-1"
+            },
+            {
+                "title": "Museum of Degenerates: Portraits of the American Grotesque ",
+                "author": "Eli Valley",
+                "price": "$34.95",
+                "cover_url": "https://m.media-amazon.com/images/I/A1inAF0d-LL._AC_UY218_.jpg",
+                "link": "https://www.amazon.com/Museum-Degenerates-Portraits-American-Grotesque/dp/168219387X/ref=sr_1_2?dib=eyJ2IjoiMSJ9.a4CtyasTXJUnMt5nQbUmFP2VQGBb88jGL3ly25Fymr2FeMySL2UIWQbQcrUNoPbMaozcuHsJqG0eMQUwafdDxsyYXhHFAqDvpcc8DGSoYSqQSGXXHEVa3TgmaHYm3JGyDkNcBvcZBiIBk5apYHXxvn0d-g5Vze7f3F8Xa9vjvYKKu_H2CqbJzFKniHFo3giCSBZ2iAQmL4cgOAOX1-SydWwp27LyZxWAdQ7btvxR72A.jNCOPF7gGSvqV7p6AsbJorbFLuzG1HUX5MTyFpEybEA\u0026dib_tag=se\u0026keywords=non-fiction+history\u0026qid=1716981357\u0026sr=8-2"
+            },
+            {
+                "title": "Roxanne Dunbar-Ortiz's Indigenous Peoples' History of the United States: A Graphic Interpretation (ReVisioning History) ",
+                "author": "Paul Peart-Smith",
+                "price": "$24.95",
+                "cover_url": "https://m.media-amazon.com/images/I/91lZ-Jw5hoL._AC_UY218_.jpg",
+                "link": "https://www.amazon.com/Roxanne-Dunbar-Ortizs-Indigenous-Peoples-History/dp/0807012688/ref=sr_1_3?dib=eyJ2IjoiMSJ9.a4CtyasTXJUnMt5nQbUmFP2VQGBb88jGL3ly25Fymr2FeMySL2UIWQbQcrUNoPbMaozcuHsJqG0eMQUwafdDxsyYXhHFAqDvpcc8DGSoYSqQSGXXHEVa3TgmaHYm3JGyDkNcBvcZBiIBk5apYHXxvn0d-g5Vze7f3F8Xa9vjvYKKu_H2CqbJzFKniHFo3giCSBZ2iAQmL4cgOAOX1-SydWwp27LyZxWAdQ7btvxR72A.jNCOPF7gGSvqV7p6AsbJorbFLuzG1HUX5MTyFpEybEA\u0026dib_tag=se\u0026keywords=non-fiction+history\u0026qid=1716981357\u0026sr=8-3"
+            }
+        ],
+        "non-fiction+history+exact-aware-popularity-rank": [
+            {
+                "title": "Sapiens: A Brief History of Humankind ",
+                "author": "Yuval Noah Harari, Derek Perkins, et al.",
+                "price": "$0.00",
+                "cover_url": "https://m.media-amazon.com/images/I/81tPEe0egBL._AC_UY218_.jpg",
+                "link": "https://www.amazon.com/Sapiens-Yuval-Noah-Harari-audiobook/dp/B0741F3M7C/ref=sr_1_1?dib=eyJ2IjoiMSJ9.nSeItgFCQFxF9wxOGqu2rM08PXhJBPO4CtghQoLHiJBRw2MUcvYPj6c1tN5bRa5pn93r5lgt4Uq2RWNcPa6sUSC6xwxrz-hPMknwJfzpMzG1YxDkuG8iBwk3Yh2EM97yqmjKBimVoBW6K-1j8Wjt6TwpSp8mhI5fJQFEIma6y0RIFXZYVHqEmLVu1dU07pbVhJHL218Q4qVwoCPcU6LYVqxXzTc5NWA2woIea29QhgU.cB9l6iNQM3FOkhLzGnKwwcIS_0Jo9uGWKw-bkVIQxUo\u0026dib_tag=se\u0026keywords=non-fiction+history\u0026qid=1716981324\u0026sr=8-1"
+            },
+            {
+                "title": "Killers of the Flower Moon: The Osage Murders and the Birth of the FBI ",
+                "author": "David Grann, Will Patton, et al.",
+                "price": "$0.00",
+                "cover_url": "https://m.media-amazon.com/images/I/91m0hRAcxwL._AC_UY218_.jpg",
+                "link": "https://www.amazon.com/Killers-of-Flower-Moon-audiobook/dp/B01MTW5T1F/ref=sr_1_2?dib=eyJ2IjoiMSJ9.nSeItgFCQFxF9wxOGqu2rM08PXhJBPO4CtghQoLHiJBRw2MUcvYPj6c1tN5bRa5pn93r5lgt4Uq2RWNcPa6sUSC6xwxrz-hPMknwJfzpMzG1YxDkuG8iBwk3Yh2EM97yqmjKBimVoBW6K-1j8Wjt6TwpSp8mhI5fJQFEIma6y0RIFXZYVHqEmLVu1dU07pbVhJHL218Q4qVwoCPcU6LYVqxXzTc5NWA2woIea29QhgU.cB9l6iNQM3FOkhLzGnKwwcIS_0Jo9uGWKw-bkVIQxUo\u0026dib_tag=se\u0026keywords=non-fiction+history\u0026qid=1716981324\u0026sr=8-2"
+            },
+            {
+                "title": "The Wager: A Tale of Shipwreck, Mutiny and Murder ",
+                "author": "David Grann, Dion Graham, et al.",
+                "price": "$0.00",
+                "cover_url": "https://m.media-amazon.com/images/I/91aX7OfkxcL._AC_UY218_.jpg",
+                "link": "https://www.amazon.com/Wager-Tale-Shipwreck-Mutiny-Murder/dp/B0B9T7F9RR/ref=sr_1_3?dib=eyJ2IjoiMSJ9.nSeItgFCQFxF9wxOGqu2rM08PXhJBPO4CtghQoLHiJBRw2MUcvYPj6c1tN5bRa5pn93r5lgt4Uq2RWNcPa6sUSC6xwxrz-hPMknwJfzpMzG1YxDkuG8iBwk3Yh2EM97yqmjKBimVoBW6K-1j8Wjt6TwpSp8mhI5fJQFEIma6y0RIFXZYVHqEmLVu1dU07pbVhJHL218Q4qVwoCPcU6LYVqxXzTc5NWA2woIea29QhgU.cB9l6iNQM3FOkhLzGnKwwcIS_0Jo9uGWKw-bkVIQxUo\u0026dib_tag=se\u0026keywords=non-fiction+history\u0026qid=1716981324\u0026sr=8-3"
+            }
+        ],
+        "non-fiction+self-help+date-desc-rank": [
+            {
+                "title": "Cognitive Ability - Things To Consider Self-Help Behaviour What it is That is Done: Content to support what is being Considered ",
+                "author": "Neill Evans and The System",
+                "price": "$0.00",
+                "cover_url": "https://m.media-amazon.com/images/I/51B-6M-5xgL._AC_UY218_.jpg",
+                "link": "https://www.amazon.com/Cognitive-Ability-Self-Help-Behaviour-Considered-ebook/dp/B0D5DLZV93/ref=sr_1_1?dib=eyJ2IjoiMSJ9.IVjukS7Eunba0otL1K9nKo6wdL7hKM_AEeQ9HnL7DgxU7yCY1WplqofAZzhP-UPc0kltVcMgVdjjLoXRzDvUaaPC_mijEyFxIsYbbaFLHj9RknZMXrSE14N1JypjWIgOdHB3wbhfCA6FpoinlDQCRKLRqeHlEnJvC_PuPFIxpBpcZb-F3ST-fEWGy8jwBtWbl9M0HutVJcrNfHT1oDtmpgHqpAGPTcibZA5pdvKaLcM.sC6zmQJx5sHRkLrBfGpgagf7I_syPvZOFvZatTtbuCk\u0026dib_tag=se\u0026keywords=non-fiction+self-help\u0026qid=1716981306\u0026sr=8-1"
+            },
+            {
+                "title": "Cognitive Ability - Things to Consider Self-Help Encouraging a Response: Content to support what is being Considered ",
+                "author": "Neill Evans and The System",
+                "price": "$0.00",
+                "cover_url": "https://m.media-amazon.com/images/I/51r6zlX9Q2L._AC_UY218_.jpg",
+                "link": "https://www.amazon.com/Cognitive-Ability-Self-Help-Encouraging-Considered-ebook/dp/B0D3B6THMX/ref=sr_1_2?dib=eyJ2IjoiMSJ9.IVjukS7Eunba0otL1K9nKo6wdL7hKM_AEeQ9HnL7DgxU7yCY1WplqofAZzhP-UPc0kltVcMgVdjjLoXRzDvUaaPC_mijEyFxIsYbbaFLHj9RknZMXrSE14N1JypjWIgOdHB3wbhfCA6FpoinlDQCRKLRqeHlEnJvC_PuPFIxpBpcZb-F3ST-fEWGy8jwBtWbl9M0HutVJcrNfHT1oDtmpgHqpAGPTcibZA5pdvKaLcM.sC6zmQJx5sHRkLrBfGpgagf7I_syPvZOFvZatTtbuCk\u0026dib_tag=se\u0026keywords=non-fiction+self-help\u0026qid=1716981306\u0026sr=8-2"
+            },
+            {
+                "title": "Cognitive Ability - Things to Consider Self-Help Management Communicating Reason: Content to support what is being Considered ",
+                "author": "Neill Evans and The System",
+                "price": "$0.00",
+                "cover_url": "https://m.media-amazon.com/images/I/51Rc5+T+KjL._AC_UY218_.jpg",
+                "link": "https://www.amazon.com/Cognitive-Ability-Management-Communicating-Considered-ebook/dp/B0D5BXL8HW/ref=sr_1_3?dib=eyJ2IjoiMSJ9.IVjukS7Eunba0otL1K9nKo6wdL7hKM_AEeQ9HnL7DgxU7yCY1WplqofAZzhP-UPc0kltVcMgVdjjLoXRzDvUaaPC_mijEyFxIsYbbaFLHj9RknZMXrSE14N1JypjWIgOdHB3wbhfCA6FpoinlDQCRKLRqeHlEnJvC_PuPFIxpBpcZb-F3ST-fEWGy8jwBtWbl9M0HutVJcrNfHT1oDtmpgHqpAGPTcibZA5pdvKaLcM.sC6zmQJx5sHRkLrBfGpgagf7I_syPvZOFvZatTtbuCk\u0026dib_tag=se\u0026keywords=non-fiction+self-help\u0026qid=1716981306\u0026sr=8-3"
+            }
+        ],
+        "non-fiction+self-help+exact-aware-popularity-rank": [
+            {
+                "title": "The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life ",
+                "author": "Mark Manson, Roger Wayne, et al.",
+                "price": "$0.00",
+                "cover_url": "https://m.media-amazon.com/images/I/81A5jQHA+lL._AC_UY218_.jpg",
+                "link": "https://www.amazon.com/Subtle-Art-Not-Giving-Counterintuitive/dp/B01I29Y344/ref=sr_1_1?dib=eyJ2IjoiMSJ9.5mckT1QYVjRPajNFjSHDlEwr3Uw83AGq-pPGdjdMQEY9uwKMLUjp7kv0PbIcFEILIAC5RKA1ezh_zcXDlb4LSUqzpFW0tb41-xp6SQKQhUF5qzbRrGKN3-Fp3Bdf4rnm_fT09e4I3bdjY-a1tuJIf69dWoG8iuyR_DfGCoyEl3ASYhHljtriCEq3-BXsqgal_X3PfkxoMTeW5ofkNX0Opxf50aDxeynEYDr5GZWOe6c.FK7bUpIWBWVREfmBaE3VISCA6o87wCMPPl1Q5fOBk4o\u0026dib_tag=se\u0026keywords=non-fiction+self-help\u0026qid=1716981299\u0026sr=8-1"
+            },
+            {
+                "title": "The 7 Habits of Highly Effective Teens ",
+                "author": "Sean Covey",
+                "price": "$9.40",
+                "cover_url": "https://m.media-amazon.com/images/I/81hZc4eq1nL._AC_UY218_.jpg",
+                "link": "https://www.amazon.com/Habits-Highly-Effective-Teens/dp/1476764662/ref=sr_1_2?dib=eyJ2IjoiMSJ9.5mckT1QYVjRPajNFjSHDlEwr3Uw83AGq-pPGdjdMQEY9uwKMLUjp7kv0PbIcFEILIAC5RKA1ezh_zcXDlb4LSUqzpFW0tb41-xp6SQKQhUF5qzbRrGKN3-Fp3Bdf4rnm_fT09e4I3bdjY-a1tuJIf69dWoG8iuyR_DfGCoyEl3ASYhHljtriCEq3-BXsqgal_X3PfkxoMTeW5ofkNX0Opxf50aDxeynEYDr5GZWOe6c.FK7bUpIWBWVREfmBaE3VISCA6o87wCMPPl1Q5fOBk4o\u0026dib_tag=se\u0026keywords=non-fiction+self-help\u0026qid=1716981299\u0026sr=8-2"
+            },
+            {
+                "title": "Unfu*k Yourself: Get Out of Your Head and into Your Life ",
+                "author": "Gary John Bishop and HarperAudio",
+                "price": "$0.00",
+                "cover_url": "https://m.media-amazon.com/images/I/81ttqWCP7TL._AC_UY218_.jpg",
+                "link": "https://www.amazon.com/Unfu-k-Yourself-Gary-John-Bishop-audiobook/dp/B0731QJ482/ref=sr_1_3?dib=eyJ2IjoiMSJ9.5mckT1QYVjRPajNFjSHDlEwr3Uw83AGq-pPGdjdMQEY9uwKMLUjp7kv0PbIcFEILIAC5RKA1ezh_zcXDlb4LSUqzpFW0tb41-xp6SQKQhUF5qzbRrGKN3-Fp3Bdf4rnm_fT09e4I3bdjY-a1tuJIf69dWoG8iuyR_DfGCoyEl3ASYhHljtriCEq3-BXsqgal_X3PfkxoMTeW5ofkNX0Opxf50aDxeynEYDr5GZWOe6c.FK7bUpIWBWVREfmBaE3VISCA6o87wCMPPl1Q5fOBk4o\u0026dib_tag=se\u0026keywords=non-fiction+self-help\u0026qid=1716981299\u0026sr=8-3"
+            }
+        ],
+        "romance+contemporary+date-desc-rank": [
+            {
+                "title": "Sunny Side-Up Diner: A Sweet, Small Town Southern Romance (Sweet Tea and a Southern Gentleman Book 6) ",
+                "author": "Anne-Marie  Meyer",
+                "price": "$5.99",
+                "cover_url": "https://m.media-amazon.com/images/I/91wk7bNco-L._AC_UY218_.jpg",
+                "link": "https://www.amazon.com/Sunny-Side-Up-Diner-Southern-Gentleman-ebook/dp/B0D1YV58VW/ref=sr_1_1?dib=eyJ2IjoiMSJ9.0f0ojzVgHMhv7JUOTOQxvELyW3z2ZxUu1uGu3-tjyMHamAp7WDWgW8xv36W2-VyioH7kLcCpurFyGy4bd9KdgL2tSBBjgCxCX5SxM01S8ioDcUKzeKwMFS_4-xrcngS98pngEmqF_uPyVp2B_FWqaaol9eBIDizodMLohcqghHOmQHrtCmIgY6LeIrRmFiv-t5iVKhj1Eq1TEmMDxvkrTDkXBFB23KMIRXxUrOx0n30.R_ns8kerc_z-fUwTieJe99t3h9QYhkQh1zyG0GJlxNU\u0026dib_tag=se\u0026keywords=romance+contemporary\u0026qid=1716981278\u0026sr=8-1"
+            },
+            {
+                "title": "Love in the Wild: A Small Town Christian Romance (Love in Blackwater Book 3) ",
+                "author": "Mandi Blake",
+                "price": "$4.99",
+                "cover_url": "https://m.media-amazon.com/images/I/81ivkfL0k8L._AC_UY218_.jpg",
+                "link": "https://www.amazon.com/Love-Wild-Christian-Romance-Blackwater-ebook/dp/B0D2VJNPWY/ref=sr_1_2?dib=eyJ2IjoiMSJ9.0f0ojzVgHMhv7JUOTOQxvELyW3z2ZxUu1uGu3-tjyMHamAp7WDWgW8xv36W2-VyioH7kLcCpurFyGy4bd9KdgL2tSBBjgCxCX5SxM01S8ioDcUKzeKwMFS_4-xrcngS98pngEmqF_uPyVp2B_FWqaaol9eBIDizodMLohcqghHOmQHrtCmIgY6LeIrRmFiv-t5iVKhj1Eq1TEmMDxvkrTDkXBFB23KMIRXxUrOx0n30.R_ns8kerc_z-fUwTieJe99t3h9QYhkQh1zyG0GJlxNU\u0026dib_tag=se\u0026keywords=romance+contemporary\u0026qid=1716981278\u0026sr=8-2"
+            },
+            {
+                "title": "Finding Hayes: A Small Town Romance (Magnolia Falls Series Book 5) ",
+                "author": "Laura  Pavlov",
+                "price": "$4.99",
+                "cover_url": "https://m.media-amazon.com/images/I/511Nj9FVu7L._AC_UY218_.jpg",
+                "link": "https://www.amazon.com/Finding-Hayes-Small-Romance-Magnolia-ebook/dp/B0CRKFHCDQ/ref=sr_1_3?dib=eyJ2IjoiMSJ9.0f0ojzVgHMhv7JUOTOQxvELyW3z2ZxUu1uGu3-tjyMHamAp7WDWgW8xv36W2-VyioH7kLcCpurFyGy4bd9KdgL2tSBBjgCxCX5SxM01S8ioDcUKzeKwMFS_4-xrcngS98pngEmqF_uPyVp2B_FWqaaol9eBIDizodMLohcqghHOmQHrtCmIgY6LeIrRmFiv-t5iVKhj1Eq1TEmMDxvkrTDkXBFB23KMIRXxUrOx0n30.R_ns8kerc_z-fUwTieJe99t3h9QYhkQh1zyG0GJlxNU\u0026dib_tag=se\u0026keywords=romance+contemporary\u0026qid=1716981278\u0026sr=8-3"
+            }
+        ],
+        "romance+contemporary+exact-aware-popularity-rank": [
+            {
+                "title": "Bitter Notes: Second Sets, Book 1 ",
+                "author": "Aly Beck, Lance Greenfield, et al.",
+                "price": "$0.00",
+                "cover_url": "https://m.media-amazon.com/images/I/91xXQLjDwAL._AC_UY218_.jpg",
+                "link": "https://www.amazon.com/Bitter-Notes-Second-Sets-Book/dp/B0CJ15M232/ref=sr_1_1?dib=eyJ2IjoiMSJ9.iHVyqtRJ2EonBi9NVcFGtlwZYd1uWo76hrwqNcSAQrqLO7nQ0pFPok2EjYCJ-DBKv6B_R_7w5FnrJYm3HV7VULMD32KhUe0ep0QbFh3IP-8jHFjNSQfuC45dNTlpObFF6l4S-nA3fqZWbtgFKQVeIexQyNf6aHzMbxWXGCNFvm_w7GSwBTJ3sI2GDg294Oj-aEj0ZeZ019z3GPidy9ZuvnHHKV313v49lC5MaQ96zDU.XzZKkhRIjumh7vpM2ui-OGY0LOT4l69bHP7OI5xG8BU\u0026dib_tag=se\u0026keywords=romance+contemporary\u0026qid=1716981272\u0026sr=8-1"
+            },
+            {
+                "title": "King of Greed (Kings of Sin, 3) ",
+                "author": "Ana Huang",
+                "price": "$10.47",
+                "cover_url": "https://m.media-amazon.com/images/I/81RkbLwbQDL._AC_UY218_.jpg",
+                "link": "https://www.amazon.com/King-Greed-Kings-Sin-3/dp/1728289742/ref=sr_1_2?dib=eyJ2IjoiMSJ9.iHVyqtRJ2EonBi9NVcFGtlwZYd1uWo76hrwqNcSAQrqLO7nQ0pFPok2EjYCJ-DBKv6B_R_7w5FnrJYm3HV7VULMD32KhUe0ep0QbFh3IP-8jHFjNSQfuC45dNTlpObFF6l4S-nA3fqZWbtgFKQVeIexQyNf6aHzMbxWXGCNFvm_w7GSwBTJ3sI2GDg294Oj-aEj0ZeZ019z3GPidy9ZuvnHHKV313v49lC5MaQ96zDU.XzZKkhRIjumh7vpM2ui-OGY0LOT4l69bHP7OI5xG8BU\u0026dib_tag=se\u0026keywords=romance+contemporary\u0026qid=1716981272\u0026sr=8-2"
+            },
+            {
+                "title": "By His Vow: A Billionaire Arranged Marriage Romance ",
+                "author": "Tracy  Lorraine",
+                "price": "$0.00",
+                "cover_url": "https://m.media-amazon.com/images/I/81BBXVYt7eL._AC_UY218_.jpg",
+                "link": "https://www.amazon.com/His-Vow-Billionaire-Arranged-Marriage-ebook/dp/B0D2BFJY2R/ref=sr_1_3?dib=eyJ2IjoiMSJ9.iHVyqtRJ2EonBi9NVcFGtlwZYd1uWo76hrwqNcSAQrqLO7nQ0pFPok2EjYCJ-DBKv6B_R_7w5FnrJYm3HV7VULMD32KhUe0ep0QbFh3IP-8jHFjNSQfuC45dNTlpObFF6l4S-nA3fqZWbtgFKQVeIexQyNf6aHzMbxWXGCNFvm_w7GSwBTJ3sI2GDg294Oj-aEj0ZeZ019z3GPidy9ZuvnHHKV313v49lC5MaQ96zDU.XzZKkhRIjumh7vpM2ui-OGY0LOT4l69bHP7OI5xG8BU\u0026dib_tag=se\u0026keywords=romance+contemporary\u0026qid=1716981272\u0026sr=8-3"
+            }
+        ],
+        "science+fiction+fantasy+dystopian+date-desc-rank": [
+            {
+                "title": "The Rising: The Branded Season, Book Two ",
+                "author": "Jo Riccioni",
+                "price": "$6.99",
+                "cover_url": "https://m.media-amazon.com/images/I/01RmK+J4pJL._AC_UY218_.gif",
+                "link": "https://www.amazon.com/Rising-Branded-Season-Book-Two-ebook/dp/B0D3Z4G6HZ/ref=sr_1_1?dib=eyJ2IjoiMSJ9.fQjJ-DE1jg3_8tVYroOpvYK1txae61rRiJWXY-ZjsK37Bn0klQCFiZstH0DQZvfryhEH50tRMNxDh0cEADkTK_J1WVtbzDTweSeBeEcCy0hWZdCtFDgUI8-Oun7dCvfjmUnvjhbYa6y923u38hLvz8SmSGGRnCzMrIeH4nljj1w7kbQUD0i_qvwvuIsx-2oVa-xwnVclke_WriOP9HV_EZq3PIp-dHgaGdIBJAPz85Q.cdE6RDtq5Pim94PpOPzyQcOycpO0_1_Q2XwOMDKUQ7I\u0026dib_tag=se\u0026keywords=science+fiction+fantasy+dystopian\u0026qid=1716981266\u0026sr=8-1"
+            },
+            {
+                "title": "First Immanuel (The Final Testament of Mankind) ",
+                "author": "W. B. Biggs",
+                "price": "$9.99",
+                "cover_url": "https://m.media-amazon.com/images/I/81hcRvYCaeL._AC_UY218_.jpg",
+                "link": "https://www.amazon.com/First-Immanuel-Final-Testament-Mankind-ebook/dp/B0CW17BY55/ref=sr_1_2?dib=eyJ2IjoiMSJ9.fQjJ-DE1jg3_8tVYroOpvYK1txae61rRiJWXY-ZjsK37Bn0klQCFiZstH0DQZvfryhEH50tRMNxDh0cEADkTK_J1WVtbzDTweSeBeEcCy0hWZdCtFDgUI8-Oun7dCvfjmUnvjhbYa6y923u38hLvz8SmSGGRnCzMrIeH4nljj1w7kbQUD0i_qvwvuIsx-2oVa-xwnVclke_WriOP9HV_EZq3PIp-dHgaGdIBJAPz85Q.cdE6RDtq5Pim94PpOPzyQcOycpO0_1_Q2XwOMDKUQ7I\u0026dib_tag=se\u0026keywords=science+fiction+fantasy+dystopian\u0026qid=1716981266\u0026sr=8-2"
+            },
+            {
+                "title": "Expansion: A Societal Collapse Post-Apocalyptic/Dystopian Survival Thriller (Compounders Book 6) ",
+                "author": "Jules  Trettel",
+                "price": "$5.99",
+                "cover_url": "https://m.media-amazon.com/images/I/61j2vKzryRL._AC_UY218_.jpg",
+                "link": "https://www.amazon.com/Expansion-Societal-Post-Apocalyptic-Dystopian-Compounders-ebook/dp/B0D582B9HF/ref=sr_1_3?dib=eyJ2IjoiMSJ9.fQjJ-DE1jg3_8tVYroOpvYK1txae61rRiJWXY-ZjsK37Bn0klQCFiZstH0DQZvfryhEH50tRMNxDh0cEADkTK_J1WVtbzDTweSeBeEcCy0hWZdCtFDgUI8-Oun7dCvfjmUnvjhbYa6y923u38hLvz8SmSGGRnCzMrIeH4nljj1w7kbQUD0i_qvwvuIsx-2oVa-xwnVclke_WriOP9HV_EZq3PIp-dHgaGdIBJAPz85Q.cdE6RDtq5Pim94PpOPzyQcOycpO0_1_Q2XwOMDKUQ7I\u0026dib_tag=se\u0026keywords=science+fiction+fantasy+dystopian\u0026qid=1716981266\u0026sr=8-3"
+            }
+        ],
+        "science+fiction+fantasy+dystopian+exact-aware-popularity-rank": [
+            {
+                "title": "Thrall: A Dystopian Novel ",
+                "author": "K. A.  Riley",
+                "price": "$0.00",
+                "cover_url": "https://m.media-amazon.com/images/I/81Y8fVBLdfL._AC_UY218_.jpg",
+                "link": "https://www.amazon.com/Thrall-Dystopian-Novel-K-Riley-ebook/dp/B0C2FRHK9Y/ref=sr_1_1?dib=eyJ2IjoiMSJ9.mB_mTBtOxnMnpUwhgZh8yO9P_TCZXMv2LOGx9O_91-4ZgpjcfMv_JBXgk-bH7-ntcRkQY8jHLsH544s2F5pPgfinkl7S8UuqSKwOYZTLXt81UNHPB66VSWS-EtIM3e2gRIioAZtGYEl2sfAv4C2SFhGIau440jixu5xLqJK6BxJL8rQbiAQL5MCCwyqtXwVVE1WMehehQxlJQemjul-r9rdsJLnGhzRNfvT26-_u62Y.anzERi3gpaYA4OkUXhAfuiZDCqVBtLdNo71aZca1Nwg\u0026dib_tag=se\u0026keywords=science+fiction+fantasy+dystopian\u0026qid=1716981260\u0026sr=8-1"
+            },
+            {
+                "title": "The Arcane Academy: A Dystopian High Fantasy Series (The Undying Magician Book 1) ",
+                "author": "Shane Purdy",
+                "price": "$0.00",
+                "cover_url": "https://m.media-amazon.com/images/I/81t+yCzaxyL._AC_UY218_.jpg",
+                "link": "https://www.amazon.com/Arcane-Academy-Dystopian-Fantasy-Magician-ebook/dp/B0BPG8L2RJ/ref=sr_1_2?dib=eyJ2IjoiMSJ9.mB_mTBtOxnMnpUwhgZh8yO9P_TCZXMv2LOGx9O_91-4ZgpjcfMv_JBXgk-bH7-ntcRkQY8jHLsH544s2F5pPgfinkl7S8UuqSKwOYZTLXt81UNHPB66VSWS-EtIM3e2gRIioAZtGYEl2sfAv4C2SFhGIau440jixu5xLqJK6BxJL8rQbiAQL5MCCwyqtXwVVE1WMehehQxlJQemjul-r9rdsJLnGhzRNfvT26-_u62Y.anzERi3gpaYA4OkUXhAfuiZDCqVBtLdNo71aZca1Nwg\u0026dib_tag=se\u0026keywords=science+fiction+fantasy+dystopian\u0026qid=1716981260\u0026sr=8-2"
+            },
+            {
+                "title": "The Cure: A Young Adult Dystopian Novel (The Cure Chronicles) ",
+                "author": "K. A. Riley",
+                "price": "$15.24",
+                "cover_url": "https://m.media-amazon.com/images/I/618WLmGo8rL._AC_UY218_.jpg",
+                "link": "https://www.amazon.com/Cure-Young-Adult-Dystopian-Chronicles/dp/B096CR5SXK/ref=sr_1_3?dib=eyJ2IjoiMSJ9.mB_mTBtOxnMnpUwhgZh8yO9P_TCZXMv2LOGx9O_91-4ZgpjcfMv_JBXgk-bH7-ntcRkQY8jHLsH544s2F5pPgfinkl7S8UuqSKwOYZTLXt81UNHPB66VSWS-EtIM3e2gRIioAZtGYEl2sfAv4C2SFhGIau440jixu5xLqJK6BxJL8rQbiAQL5MCCwyqtXwVVE1WMehehQxlJQemjul-r9rdsJLnGhzRNfvT26-_u62Y.anzERi3gpaYA4OkUXhAfuiZDCqVBtLdNo71aZca1Nwg\u0026dib_tag=se\u0026keywords=science+fiction+fantasy+dystopian\u0026qid=1716981260\u0026sr=8-3"
+            }
+        ],
+        "science+fiction+fantasy+fantasy+date-desc-rank": [
+            {
+                "title": "Curse of the Walking Man: A Humorous Urban Fantasy Adventure Series (Heaven's Dark Soldiers Book 7) ",
+                "author": "Steve Gilmore",
+                "price": "$5.99",
+                "cover_url": "https://m.media-amazon.com/images/I/81gsm43Q1SL._AC_UY218_.jpg",
+                "link": "https://www.amazon.com/Curse-Walking-Man-Humorous-Adventure-ebook/dp/B0CWDJJR47/ref=sr_1_1?dib=eyJ2IjoiMSJ9.qGmilSybNT5NZA8wkGI29uCpJvgb-fQxF7ri0b1Tlcp4ZYVcGnjHIAuRfaqylPSCcHAcnhGpTE5gK7TD7CDfdosj7tNq1_0GX2lLS-cy-z2CjnG0Uc-ev9dJF1rmNTMX3z4Wh4VPol93hmCGSbl50mNayzeWJJEOtmSQ-B2NA0yaZgmTvqUIg2Thxpvtg601uF9ne6GfQVgsi5jtGSfOAfeSqq_DREys43Hj6nv2wF4.eOIBcHr3mhzp3cMLNlVYUtCKkj0DiCbHFP9pcIEpEvI\u0026dib_tag=se\u0026keywords=science+fiction+fantasy+fantasy\u0026qid=1716981242\u0026sr=8-1"
+            },
+            {
+                "title": "The Hunter’s Code: Book 5: A Portal Progression Fantasy Series ",
+                "author": "Yuri Vinokuroff and Oleg Sapphire",
+                "price": "$7.99",
+                "cover_url": "https://m.media-amazon.com/images/I/81CmDVXjqKL._AC_UY218_.jpg",
+                "link": "https://www.amazon.com/Hunters-Code-Portal-Progression-Fantasy-ebook/dp/B0CTMVRQB2/ref=sr_1_2?dib=eyJ2IjoiMSJ9.qGmilSybNT5NZA8wkGI29uCpJvgb-fQxF7ri0b1Tlcp4ZYVcGnjHIAuRfaqylPSCcHAcnhGpTE5gK7TD7CDfdosj7tNq1_0GX2lLS-cy-z2CjnG0Uc-ev9dJF1rmNTMX3z4Wh4VPol93hmCGSbl50mNayzeWJJEOtmSQ-B2NA0yaZgmTvqUIg2Thxpvtg601uF9ne6GfQVgsi5jtGSfOAfeSqq_DREys43Hj6nv2wF4.eOIBcHr3mhzp3cMLNlVYUtCKkj0DiCbHFP9pcIEpEvI\u0026dib_tag=se\u0026keywords=science+fiction+fantasy+fantasy\u0026qid=1716981242\u0026sr=8-2"
+            },
+            {
+                "title": "The Goldenblood Heir (Book 7): A Portal Progression Fantasy Series ",
+                "author": "Boris Romanovsky",
+                "price": "$7.99",
+                "cover_url": "https://m.media-amazon.com/images/I/81BLtNcFjhL._AC_UY218_.jpg",
+                "link": "https://www.amazon.com/Goldenblood-Heir-Book-Progression-Fantasy-ebook/dp/B0CW1CMYN9/ref=sr_1_3?dib=eyJ2IjoiMSJ9.qGmilSybNT5NZA8wkGI29uCpJvgb-fQxF7ri0b1Tlcp4ZYVcGnjHIAuRfaqylPSCcHAcnhGpTE5gK7TD7CDfdosj7tNq1_0GX2lLS-cy-z2CjnG0Uc-ev9dJF1rmNTMX3z4Wh4VPol93hmCGSbl50mNayzeWJJEOtmSQ-B2NA0yaZgmTvqUIg2Thxpvtg601uF9ne6GfQVgsi5jtGSfOAfeSqq_DREys43Hj6nv2wF4.eOIBcHr3mhzp3cMLNlVYUtCKkj0DiCbHFP9pcIEpEvI\u0026dib_tag=se\u0026keywords=science+fiction+fantasy+fantasy\u0026qid=1716981242\u0026sr=8-3"
+            }
+        ],
+        "science+fiction+fantasy+fantasy+exact-aware-popularity-rank": [
+            {
+                "title": "Solitude: Dimension Space, Book One ",
+                "author": "Dean M. Cole, R.C. Bray, et al.",
+                "price": "$0.00",
+                "cover_url": "https://m.media-amazon.com/images/I/81C4inBYhJL._AC_UY218_.jpg",
+                "link": "https://www.amazon.com/Solitude-Dean-M-Cole-audiobook/dp/B06XGQ7J9Z/ref=sr_1_1?dib=eyJ2IjoiMSJ9.bJKbxq-C0lNvH47DR9mG5Bn3d9is601lGi-0N7I4Wi8gDby4PHqegWvjgTfRjx18m3-ECfcS-ikue1_2SMEEbPeUFZwmzYq6VA3ZDr8DOEzYkRzM6J_mC_Tik1ordse_fA6d7LnqFEo29FWMSraJi9waEWdyF-OaSfQ5SUF6mBygIOGfWbuSnXy90845vd39k-hgvEsLrJNg4ZG7UsRgiMJIKH0k4d7iWbXaoKJb6eM.jBeEI0uesBB4W_-dA2d8U0qg5fhtRrsUpelpm7usH0Q\u0026dib_tag=se\u0026keywords=science+fiction+fantasy+fantasy\u0026qid=1716981236\u0026sr=8-1"
+            },
+            {
+                "title": "The Order of Architects (Book 1): A Portal Progression Fantasy Series ",
+                "author": "Oleg Sapphire and Yuri Vinokuroff",
+                "price": "$0.00",
+                "cover_url": "https://m.media-amazon.com/images/I/81ZlODnTH3L._AC_UY218_.jpg",
+                "link": "https://www.amazon.com/Order-Architects-Book-Progression-Fantasy-ebook/dp/B0CVS53HVM/ref=sr_1_2?dib=eyJ2IjoiMSJ9.bJKbxq-C0lNvH47DR9mG5Bn3d9is601lGi-0N7I4Wi8gDby4PHqegWvjgTfRjx18m3-ECfcS-ikue1_2SMEEbPeUFZwmzYq6VA3ZDr8DOEzYkRzM6J_mC_Tik1ordse_fA6d7LnqFEo29FWMSraJi9waEWdyF-OaSfQ5SUF6mBygIOGfWbuSnXy90845vd39k-hgvEsLrJNg4ZG7UsRgiMJIKH0k4d7iWbXaoKJb6eM.jBeEI0uesBB4W_-dA2d8U0qg5fhtRrsUpelpm7usH0Q\u0026dib_tag=se\u0026keywords=science+fiction+fantasy+fantasy\u0026qid=1716981236\u0026sr=8-2"
+            },
+            {
+                "title": "Bred by the Alien Prince: An MM Alien Sci-fi Romance ",
+                "author": "Morrigan Black",
+                "price": "$0.00",
+                "cover_url": "https://m.media-amazon.com/images/I/81R1c95gbVL._AC_UY218_.jpg",
+                "link": "https://www.amazon.com/Bred-Alien-Prince-Sci-fi-Romance-ebook/dp/B0CY386SYC/ref=sr_1_3?dib=eyJ2IjoiMSJ9.bJKbxq-C0lNvH47DR9mG5Bn3d9is601lGi-0N7I4Wi8gDby4PHqegWvjgTfRjx18m3-ECfcS-ikue1_2SMEEbPeUFZwmzYq6VA3ZDr8DOEzYkRzM6J_mC_Tik1ordse_fA6d7LnqFEo29FWMSraJi9waEWdyF-OaSfQ5SUF6mBygIOGfWbuSnXy90845vd39k-hgvEsLrJNg4ZG7UsRgiMJIKH0k4d7iWbXaoKJb6eM.jBeEI0uesBB4W_-dA2d8U0qg5fhtRrsUpelpm7usH0Q\u0026dib_tag=se\u0026keywords=science+fiction+fantasy+fantasy\u0026qid=1716981236\u0026sr=8-3"
+            }
+        ],
+        "science+fiction+fantasy+science+fiction+date-desc-rank": [
+            {
+                "title": "Curse of the Walking Man: A Humorous Urban Fantasy Adventure Series (Heaven's Dark Soldiers Book 7) ",
+                "author": "Steve Gilmore",
+                "price": "$5.99",
+                "cover_url": "https://m.media-amazon.com/images/I/81gsm43Q1SL._AC_UY218_.jpg",
+                "link": "https://www.amazon.com/Curse-Walking-Man-Humorous-Adventure-ebook/dp/B0CWDJJR47/ref=sr_1_1?dib=eyJ2IjoiMSJ9.dUkiQSMevIvpfLf8tJiHukL5eiMtjCVqrdihmlECl4Aiq6j2gJBHitdjuK8VyGe7BNv_d5MkDfN2-K9xjXTPFZ8IjpYdNB8bHF6v53nFJ89lCvFXLlWzLOrVDlysfMCWpl0kbe2Mobj41eSD14NLwF6ReUwBbpgaaX8YWTlmDc306KTA8zhdtW4IB-S99qJI_Znn_x_lqlaPJGXeLqfQ0FoaszZWWLI1Kdx6SRnGpQ8.6osgAhF8I1PuTk1JOrcXRWTw2DOohXbQdyO5oto7m54\u0026dib_tag=se\u0026keywords=science+fiction+fantasy+science+fiction\u0026qid=1716981254\u0026sr=8-1"
+            },
+            {
+                "title": "Crossroads of Oblivion (Book 3): A Portal Progression Fantasy Adventure Series ",
+                "author": "Dem Mikhailov",
+                "price": "$7.99",
+                "cover_url": "https://m.media-amazon.com/images/I/81DzMYCfezL._AC_UY218_.jpg",
+                "link": "https://www.amazon.com/Crossroads-Oblivion-Book-Progression-Adventure-ebook/dp/B0CYQR6Q4X/ref=sr_1_2?dib=eyJ2IjoiMSJ9.dUkiQSMevIvpfLf8tJiHukL5eiMtjCVqrdihmlECl4Aiq6j2gJBHitdjuK8VyGe7BNv_d5MkDfN2-K9xjXTPFZ8IjpYdNB8bHF6v53nFJ89lCvFXLlWzLOrVDlysfMCWpl0kbe2Mobj41eSD14NLwF6ReUwBbpgaaX8YWTlmDc306KTA8zhdtW4IB-S99qJI_Znn_x_lqlaPJGXeLqfQ0FoaszZWWLI1Kdx6SRnGpQ8.6osgAhF8I1PuTk1JOrcXRWTw2DOohXbQdyO5oto7m54\u0026dib_tag=se\u0026keywords=science+fiction+fantasy+science+fiction\u0026qid=1716981254\u0026sr=8-2"
+            },
+            {
+                "title": "Fool's Last Dance: A Post-Apocalyptic LitRPG (System Apocalypse: Kismet Book 3) ",
+                "author": "Tao Wong and David R. Packer",
+                "price": "$4.99",
+                "cover_url": "https://m.media-amazon.com/images/I/71WhW6Eo7YL._AC_UY218_.jpg",
+                "link": "https://www.amazon.com/Fools-Last-Dance-Post-Apocalyptic-Apocalypse-ebook/dp/B0CVD2BYDG/ref=sr_1_3?dib=eyJ2IjoiMSJ9.dUkiQSMevIvpfLf8tJiHukL5eiMtjCVqrdihmlECl4Aiq6j2gJBHitdjuK8VyGe7BNv_d5MkDfN2-K9xjXTPFZ8IjpYdNB8bHF6v53nFJ89lCvFXLlWzLOrVDlysfMCWpl0kbe2Mobj41eSD14NLwF6ReUwBbpgaaX8YWTlmDc306KTA8zhdtW4IB-S99qJI_Znn_x_lqlaPJGXeLqfQ0FoaszZWWLI1Kdx6SRnGpQ8.6osgAhF8I1PuTk1JOrcXRWTw2DOohXbQdyO5oto7m54\u0026dib_tag=se\u0026keywords=science+fiction+fantasy+science+fiction\u0026qid=1716981254\u0026sr=8-3"
+            }
+        ],
+        "science+fiction+fantasy+science+fiction+exact-aware-popularity-rank": [
+            {
+                "title": "Solitude: Dimension Space, Book One ",
+                "author": "Dean M. Cole, R.C. Bray, et al.",
+                "price": "$0.00",
+                "cover_url": "https://m.media-amazon.com/images/I/81C4inBYhJL._AC_UY218_.jpg",
+                "link": "https://www.amazon.com/Solitude-Dean-M-Cole-audiobook/dp/B06XGQ7J9Z/ref=sr_1_1?dib=eyJ2IjoiMSJ9.bJKbxq-C0lNvH47DR9mG5Bn3d9is601lGi-0N7I4Wi8d4kXf8gqDH8Q7GVwh8FMbv1ufAPVOzRZmEjKJLkHS83G1P5_th42JMEEE7CWnce4iTy1es9LvjSxqIPHEy6O4KaXll2twtHOB-kF_EWpiehUDNh7QKUFF3vkCGPx_dQYRcjhT2A1xJHKMz04UXxMIMmj8FmFBScZQfwF3WQ2fVOMiJS9Zyuyu3KOv98mYiCo.fTGtag7uJcWOSZ5DqpIx2PX00qqYPcF2zRyeYBK5OY4\u0026dib_tag=se\u0026keywords=science+fiction+fantasy+science+fiction\u0026qid=1716981248\u0026sr=8-1"
+            },
+            {
+                "title": "The Order of Architects (Book 1): A Portal Progression Fantasy Series ",
+                "author": "Oleg Sapphire and Yuri Vinokuroff",
+                "price": "$0.00",
+                "cover_url": "https://m.media-amazon.com/images/I/81ZlODnTH3L._AC_UY218_.jpg",
+                "link": "https://www.amazon.com/Order-Architects-Book-Progression-Fantasy-ebook/dp/B0CVS53HVM/ref=sr_1_2?dib=eyJ2IjoiMSJ9.bJKbxq-C0lNvH47DR9mG5Bn3d9is601lGi-0N7I4Wi8d4kXf8gqDH8Q7GVwh8FMbv1ufAPVOzRZmEjKJLkHS83G1P5_th42JMEEE7CWnce4iTy1es9LvjSxqIPHEy6O4KaXll2twtHOB-kF_EWpiehUDNh7QKUFF3vkCGPx_dQYRcjhT2A1xJHKMz04UXxMIMmj8FmFBScZQfwF3WQ2fVOMiJS9Zyuyu3KOv98mYiCo.fTGtag7uJcWOSZ5DqpIx2PX00qqYPcF2zRyeYBK5OY4\u0026dib_tag=se\u0026keywords=science+fiction+fantasy+science+fiction\u0026qid=1716981248\u0026sr=8-2"
+            },
+            {
+                "title": "Bred by the Alien Prince: An MM Alien Sci-fi Romance ",
+                "author": "Morrigan Black",
+                "price": "$0.00",
+                "cover_url": "https://m.media-amazon.com/images/I/81R1c95gbVL._AC_UY218_.jpg",
+                "link": "https://www.amazon.com/Bred-Alien-Prince-Sci-fi-Romance-ebook/dp/B0CY386SYC/ref=sr_1_3?dib=eyJ2IjoiMSJ9.bJKbxq-C0lNvH47DR9mG5Bn3d9is601lGi-0N7I4Wi8d4kXf8gqDH8Q7GVwh8FMbv1ufAPVOzRZmEjKJLkHS83G1P5_th42JMEEE7CWnce4iTy1es9LvjSxqIPHEy6O4KaXll2twtHOB-kF_EWpiehUDNh7QKUFF3vkCGPx_dQYRcjhT2A1xJHKMz04UXxMIMmj8FmFBScZQfwF3WQ2fVOMiJS9Zyuyu3KOv98mYiCo.fTGtag7uJcWOSZ5DqpIx2PX00qqYPcF2zRyeYBK5OY4\u0026dib_tag=se\u0026keywords=science+fiction+fantasy+science+fiction\u0026qid=1716981248\u0026sr=8-3"
+            }
+        ]
+    }
+}

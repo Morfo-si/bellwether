@@ -39,8 +39,12 @@
   weight = 5
   url = "https://www.amazon.com/stores/Og-Maciel/author/B07PSBPFX2"
 [[social]]
-  name = "rss"
+  name = "goodreads"
   weight = 6
+  url = "https://www.goodreads.com/author/show/7762080.Og_Maciel"
+[[social]]
+  name = "rss"
+  weight = 7
   url = "index.xml"
 
 # other supported social links

@@ -35,8 +35,12 @@
   name = "instagram"
   url = "http://instagram.com/ogmaciel"
 [[social]]
-  name = "rss"
+  name = "amazon"
   weight = 5
+  url = "https://www.amazon.com/stores/Og-Maciel/author/B07PSBPFX2"
+[[social]]
+  name = "rss"
+  weight = 6
   url = "index.xml"
 
 # other supported social links

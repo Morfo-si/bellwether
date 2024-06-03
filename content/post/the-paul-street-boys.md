@@ -16,7 +16,7 @@ categories = [
 ]
 series = ["Book Recommendation"]
 aliases = ["book-recommendation-fiction"]
-thumbnail = "images/the-paul-street-boys.jpg"
+thumbnail = "/images/the-paul-street-boys.jpg"
 
 [params]
     amazon = "https://amzn.to/3V8SbcO"

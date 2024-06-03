@@ -15,7 +15,7 @@ categories = [
 ]
 series = ["Book Recommendation"]
 aliases = ["book-recommendation-fiction"]
-thumbnail = "images/bridge-of-clay.jpg"
+thumbnail = "/images/bridge-of-clay.jpg"
 
 [params]
     amazon = "https://amzn.to/3yRdYhD"

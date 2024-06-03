@@ -15,7 +15,7 @@ categories = [
 ]
 series = ["Book Recommendation"]
 aliases = ["book-recommendation-fiction"]
-thumbnail = "images/the-grapes-of-wrath.jpg"
+thumbnail = "/images/the-grapes-of-wrath.jpg"
 
 [params]
     amazon = "https://amzn.to/3X30MAs"

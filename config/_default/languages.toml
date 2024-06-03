@@ -7,5 +7,6 @@
   title = "Claridade" # just for the sake of showing this is possible
   LanguageName = "Português"
   weight = 2
+  disabled = true
 
   # tip: assign the default language the lowest Weight

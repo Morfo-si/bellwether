@@ -21,3 +21,7 @@ series = "series"
 
 [outputs]
 home = ["HTML", "RSS", "JSON"]
+
+[services]
+  [services.disqus]
+    shortname =  "bellwether-2"

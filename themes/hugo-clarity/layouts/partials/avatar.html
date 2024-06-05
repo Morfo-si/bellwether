@@ -1,0 +1,12 @@
+{{ $s := site.Params }}
+{{- $avatar := .Params.avatar }}
+
+{{- if $avatar }}
+    <div class="author_header">
+        <img src="{{ absURL .Params.avatar }}">
+    </div>
+{{- else }}
+    <div class="author_header">
+        <img src="{{ absURL $s.author.photo }}">
+    </div>
+{{- end}}

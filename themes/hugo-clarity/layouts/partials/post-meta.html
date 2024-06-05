@@ -7,6 +7,7 @@
 {{- if $showPostMeta }}
   <div class="post_meta">
 {{- end }}
+    {{- partial "avatar" .}}
   {{- if $showDate }}
     <span>{{ partial "sprite" (dict "icon" "calendar") }}</span>
     <span class="post_date">

@@ -17,12 +17,9 @@ series = ["Book Recommendation"]
 aliases = ["book-recommendation-fiction"]
 thumbnail = "/images/and-every-morning-the-way-home-gets-longer-and-longer.jpg"
 
-[params]
-    amazon = "https://amzn.to/3KOgzMp"
-
 +++
 
-I picked up "And Every Morning the Way Home Gets Longer and Longer" to read on Christmas Day of 2022. At the time, I wasn't fully aware of it, but I was grappling with personal and work-related issues. As I made my way through the 96 pages of this story, many of the feelings I had been suppressing suddenly came to the surface. I was overwhelmed by a flood of emotions that I had buried deep within me, too numerous to describe in a simple post. One realization hit me particularly hard: I would be turning 50 soon, my daughters were growing up, and the inevitable day when they would move out was drawing closer. Backman’s portrayal of the grandfather’s struggle with dementia and the tender moments he shares with his grandson resonated deeply with my own experience of trying, without fully realizing it, to hold on to my youngest daughter before she outgrew unasked-for hugs and the silliness we still share. The novella's exploration of holding on and letting go struck a profound chord, making it an intensely emotional read for me.
+I picked up ["And Every Morning the Way Home Gets Longer and Longer"](https://amzn.to/3KOgzMp) to read on Christmas Day of 2022. At the time, I wasn't fully aware of it, but I was grappling with personal and work-related issues. As I made my way through the 96 pages of this story, many of the feelings I had been suppressing suddenly came to the surface. I was overwhelmed by a flood of emotions that I had buried deep within me, too numerous to describe in a simple post. One realization hit me particularly hard: I would be turning 50 soon, my daughters were growing up, and the inevitable day when they would move out was drawing closer. Backman’s portrayal of the grandfather’s struggle with dementia and the tender moments he shares with his grandson resonated deeply with my own experience of trying, without fully realizing it, to hold on to my youngest daughter before she outgrew unasked-for hugs and the silliness we still share. The novella's exploration of holding on and letting go struck a profound chord, making it an intensely emotional read for me.
 
 > "I miss you unbearably."
 

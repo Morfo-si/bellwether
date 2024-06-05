@@ -3,7 +3,6 @@ author = "Og Maciel"
 title = "The Paul Street Boys by Ferenc Molnár"
 date = "2024-06-01"
 description = "Book recommendation for the book The Paul Street Boys by Ferenc Molnár."
-featured = true
 
 tags = [
     "ferenc molnár",

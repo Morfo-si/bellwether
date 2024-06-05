@@ -3,7 +3,6 @@ author = "Og Maciel"
 title = "The Grapes of Wrath by John Steinbeck"
 date = "2024-06-01"
 description = "Book recommendation for the book The Grapes of Wrath by John Steinbeck."
-featured = true
 tags = [
     "john steinbeck",
     "fiction",

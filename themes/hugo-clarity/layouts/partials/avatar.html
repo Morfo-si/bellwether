@@ -3,10 +3,10 @@
 
 {{- if $avatar }}
     <div class="author_header">
-        <img src="{{ absURL .Params.avatar }}">
+        <img src="{{ absURL .Params.avatar }}" class="round">
     </div>
 {{- else }}
     <div class="author_header">
-        <img src="{{ absURL $s.author.photo }}">
+        <img src="{{ absURL $s.author.photo }}" class="round">
     </div>
 {{- end}}

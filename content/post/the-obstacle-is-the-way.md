@@ -3,7 +3,7 @@ author = "Og Maciel"
 title = "The Obstacle is the Way by Ryan Holiday"
 date = "2024-06-11"
 description = "Book recommendation for the book The Obstacle is the Way by Ryan Holiday."
-featured = true
+featured = false
 tags = [
     "ryan holiday",
     "fiction",

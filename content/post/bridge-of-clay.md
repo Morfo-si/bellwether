@@ -3,7 +3,7 @@ author = "Og Maciel"
 title = "Bridge of Clay by Markus Zusak"
 date = "2024-06-01"
 description = "Book recommendation for the book Bridge of Clay by Markus Zusak."
-featured = true
+featured = false
 tags = [
     "markus zusak",
     "fiction",

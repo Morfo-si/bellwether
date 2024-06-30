@@ -3,7 +3,7 @@ author = "Og Maciel"
 title = "And Every Morning the Way Home Gets Longer and Longer by Fredrik Backman"
 date = "2024-06-04"
 description = "Book recommendation for the book And Every Morning the Way Home Gets Longer and Longer by Fredrik Backman."
-featured = true
+featured = false
 tags = [
     "fredrik backman",
     "fiction",

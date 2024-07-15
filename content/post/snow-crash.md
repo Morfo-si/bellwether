@@ -24,7 +24,7 @@ thumbnail = "/images/snow-crash.jpg"
 
 +++
 
-I laughed so much while reading [“Snow Crash”](https://amzn.to/4aTBwjk) and couldn’t believe it took me so long to get to it. The book is packed with outrageous scenarios, clever dialogue, and biting satire that had me laughing out loud frequently. It is probably not for the easily offended or faint of heart, as it tackles some edgy themes and language, but I promise that this book is laugh-out-loud funny and well worth the time to read. Stephenson’s irreverent take on a dystopian future and his knack for blending humor with high-stakes action kept me thoroughly engaged from start to finish.
+I laughed so much while reading <a href="https://amzn.to/4aTBwjk" rel="nofollow" target="_blank">“Snow Crash”</a> and couldn’t believe it took me so long to get to it. The book is packed with outrageous scenarios, clever dialogue, and biting satire that had me laughing out loud frequently. It is probably not for the easily offended or faint of heart, as it tackles some edgy themes and language, but I promise that this book is laugh-out-loud funny and well worth the time to read. Stephenson’s irreverent take on a dystopian future and his knack for blending humor with high-stakes action kept me thoroughly engaged from start to finish.
 
 > "I just saved your fucking life, Mom. . . . You could at least offer me an Oreo."
 

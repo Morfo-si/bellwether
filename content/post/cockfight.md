@@ -30,7 +30,7 @@ thumbnail = "/images/cockfight.jpg"
 
 +++
 
-["Cockfight"](https://amzn.to/3zdovnM) by the Equatorian writer, Maria Fernanda Ampuero, is not for the faint of heart. For an author to write good horror, they have to dare to be transgressive and name those things society is too afraid to look in the eye.
+<a href="https://amzn.to/3zdovnM" rel="nofollow" target="_blank">"Cockfight"</a> by the Equatorian writer, Maria Fernanda Ampuero, is not for the faint of heart. For an author to write good horror, they have to dare to be transgressive and name those things society is too afraid to look in the eye.
 
 Ampuero opens her short story collection with the story of a woman who is kidnapped by a taxi to be auctioned like cattle. In order to escape she defecates in front of a crowd to remind them she is not merchandise, but a human being. This fact, as well as breaking the taboo of reminding us that everybody poops, convinces the kidnapper to release her.
 

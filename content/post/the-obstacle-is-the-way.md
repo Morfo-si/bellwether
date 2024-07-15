@@ -23,7 +23,7 @@ thumbnail = "/images/the-obstacle-is-the-way.jpg"
 
 +++
 
-[“The Obstacle is the Way”](https://amzn.to/3RiPkNp) was the book that introduced me to Stoicism and perhaps is responsible for bringing this ancient philosophy to a new generation. I have recommended it multiple times and referred to it whenever I am giving friends and family advice about their personal or work-related challenges, as well as for my own day-to-day challenges. Holiday’s ability to distill Stoic principles into practical advice has been invaluable in helping me and those around me navigate obstacles with a more positive and resilient outlook.
+<a href="https://amzn.to/3RiPkNp" rel="nofollow" target="_blank">“The Obstacle is the Way” was the book that introduced me to Stoicism and perhaps is responsible for bringing this ancient philosophy to a new generation. I have recommended it multiple times and referred to it whenever I am giving friends and family advice about their personal or work-related challenges, as well as for my own day-to-day challenges. Holiday’s ability to distill Stoic principles into practical advice has been invaluable in helping me and those around me navigate obstacles with a more positive and resilient outlook.
 
 > "We forget: In life, it doesn’t matter what happens to you or where you came from. It matters what you do with what happens and what you’ve been given."
 

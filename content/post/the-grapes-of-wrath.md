@@ -18,7 +18,7 @@ thumbnail = "/images/the-grapes-of-wrath.jpg"
 
 +++
 
-["The Grapes of Wrath"](https://amzn.to/3X30MAs) is a powerful and timeless novel that offers a profound look into the human spirit and the enduring struggle for dignity and justice. I highly recommend this book to anyone interested in a poignant, thought-provoking read that remains relevant to this day. It’s a literary journey that will leave a lasting impact on your heart and mind.
+<a href="https://amzn.to/3X30MAs" rel="nofollow" target="_blank">"The Grapes of Wrath"</a> is a powerful and timeless novel that offers a profound look into the human spirit and the enduring struggle for dignity and justice. I highly recommend this book to anyone interested in a poignant, thought-provoking read that remains relevant to this day. It’s a literary journey that will leave a lasting impact on your heart and mind.
 
 I thoroughly enjoyed reading this book, my very first Steinbeck[^1]! His description of human plight against the adversities that life, real life, threw at the Joads and their many failures and small successes was as close to the real world as you can get. His description of the process by which the Joads had to slowly get rid of their possessions, seeing their memories and livelihood slipping away into the hands of total strangers, really resonated with my own experience of packing everything I owned and moving to the US a couple of decades ago. I'm really glad it took me all these years to read this masterpiece as it allowed me to grow up and really appreciate it. Gets 5 stars from me!
 <!--more-->

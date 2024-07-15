@@ -19,7 +19,7 @@ thumbnail = "/images/bridge-of-clay.jpg"
 
 +++
 
-Few books have touched me so deeply as ["Bridge of Clay."](https://amzn.to/3yRdYhD) It's pure joy, bitter and sweet, heart-wrenching, and poetic, all in one. More than anything, it is love, loyalty, and family... always family. Zusak[^1] masterfully captures the essence of these themes through the intricate lives of the Dunbar brothers, making their struggles and triumphs profoundly relatable and moving. This novel’s emotional resonance is a testament to Zusak's exceptional storytelling.
+Few books have touched me so deeply as <a href="https://amzn.to/3yRdYhD" rel="nofollow" target="_blank">"Bridge of Clay."</a> It's pure joy, bitter and sweet, heart-wrenching, and poetic, all in one. More than anything, it is love, loyalty, and family... always family. Zusak[^1] masterfully captures the essence of these themes through the intricate lives of the Dunbar brothers, making their struggles and triumphs profoundly relatable and moving. This novel’s emotional resonance is a testament to Zusak's exceptional storytelling.
 
 "Bridge of Clay" is a beautifully crafted novel that will leave a lasting impression on its readers. It is a poignant exploration of the complexities of familial relationships and the enduring power of love and loyalty. I highly recommend this book to anyone seeking a deeply emotional and thought-provoking read. It’s a literary experience that blends pain and beauty in a way that only Markus Zusak can achieve.
 <!--more-->

@@ -3,7 +3,6 @@ author = "Og Maciel"
 title = "Huda F. Cares by Huda Fahmy"
 date = "2024-07-09"
 description = "Book recommendation for the book Huda F. Cares by Huda Fahmy."
-featured = true
 tags = [
     "huda fahmy",
     "graphic novel",

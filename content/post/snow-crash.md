@@ -3,7 +3,6 @@ author = "Og Maciel"
 title = "Snow Crash by Neal Stephenson"
 date = "2024-06-18"
 description = "Book recommendation for the book Snow Crash by Neal Stephenson."
-featured = true
 tags = [
     "neal stephenson",
     "fiction",

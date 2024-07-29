@@ -5,7 +5,6 @@ guest = true
 title = "Cockfight by María Fernanda Ampuero"
 date = "2024-07-02"
 description = "Book recommendation for the book Cockfight Book by María Fernanda Ampuero."
-featured = true
 tags = [
     "maría fernanda ampuero",
     "ecuadorian",

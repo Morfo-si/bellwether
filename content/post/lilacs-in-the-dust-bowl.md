@@ -5,7 +5,6 @@ guest = true
 title = "Lilacs in the Dust Bowl by Diana Stevan"
 date = "2024-06-25"
 description = "Book recommendation for the book Lilacs in the Dust Bowl by Diana Stevan."
-featured = true
 tags = [
     "diana stevan",
     "canadian",

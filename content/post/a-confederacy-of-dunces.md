@@ -43,4 +43,4 @@ Published posthumously in 1980, <a href="https://amzn.to/3zZYzwd" rel="nofollow"
 
 John Kennedy Toole[^1] was an American novelist whose work gained widespread recognition only after his death. His unique voice and keen sense of humor have made <a href="https://amzn.to/3zZYzwd" rel="nofollow" target="_blank">“A Confederacy of Dunces”</a> a beloved classic. Toole’s writing style is characterized by its sharp wit, rich character development, and vivid depictions of New Orleans. Despite his tragic early death, Toole’s legacy endures through this singular work, which won the Pulitzer Prize for Fiction in 1981.
 
-[^1]: https://www.goodreads.com/author/show/1630.Ray_Bradbury
+[^1]: https://www.goodreads.com/author/show/3049.John_Kennedy_Toole

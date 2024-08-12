@@ -7,7 +7,6 @@ featured = true
 tags = [
     "John Kennedy Toole",
     "american",
-    "classics",
     "Fiction",
     "Humor",
     "Literature",

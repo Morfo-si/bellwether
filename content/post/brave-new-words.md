@@ -3,7 +3,7 @@ author = "Og Maciel"
 title = "Brave New Words by Salman Khan"
 date = "2024-07-23"
 description = "Book recommendation for the book Brave New Words by Salman Khan."
-featured = true
+featured = false
 tags = [
     "salman khan",
     "american",

@@ -3,6 +3,7 @@ author = "Og Maciel"
 title = "Skippy Dies by Paul Murray"
 date = "2024-09-10"
 description = "Book recommendation for the book Skippy Dies by Paul Murray."
+featured = true
 tags = [
     "Paul Murray",
     "Irish",

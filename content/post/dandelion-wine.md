@@ -3,7 +3,7 @@ author = "Og Maciel"
 title = "Dandelion Wine by Ray Bradbury"
 date = "2024-07-30"
 description = "Book recommendation for the book Dandelion Wine by Ray Bradbury."
-featured = true
+featured = false
 tags = [
     "Ray Bradbury",
     "american",

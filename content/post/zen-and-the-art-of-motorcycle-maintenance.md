@@ -3,7 +3,7 @@ author = "Og Maciel"
 title = "Zen and the Art of Motorcycle Maintenance by Robert M. Pirsig"
 date = "2024-07-16"
 description = "Book recommendation for the book Zen and the Art of Motorcycle Maintenance by Robert M. Pirsig."
-featured = true
+featured = false
 tags = [
     "robert m pirsig",
     "philosophy",

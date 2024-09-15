@@ -3,6 +3,7 @@ author = "Og Maciel"
 title = "The Brief Wondrous Life of Oscar Wao by Junot Díaz"
 date = "2024-08-27"
 description = "Book recommendation for the book The Brief Wondrous Life of Oscar Wao by Junot Díaz."
+featured = true
 tags = [
     "Junot Díaz",
     "dominican",

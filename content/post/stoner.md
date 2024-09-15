@@ -3,7 +3,7 @@ author = "Og Maciel"
 title = "Stoner by John Williams"
 date = "2024-08-13"
 description = "Book recommendation for the book Stoner by John Williams."
-featured = true
+featured = false
 tags = [
     "John Williams",
     "Fiction",

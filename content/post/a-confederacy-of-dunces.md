@@ -3,7 +3,7 @@ author = "Og Maciel"
 title = "A Confederacy of Dunces by John Kennedy Toole"
 date = "2024-08-06"
 description = "Book recommendation for the book A Confederacy of Dunces by John Kennedy Toole."
-featured = true
+featured = false
 tags = [
     "John Kennedy Toole",
     "american",

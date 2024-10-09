@@ -3,7 +3,7 @@ author = "Og Maciel"
 title = "High Fidelity by Nick Hornby"
 date = "2024-09-03"
 description = "Book recommendation for the book High Fidelity by Nick Hornby."
-featured = true
+featured = false
 tags = [
     "Nick Hornby",
     "British",

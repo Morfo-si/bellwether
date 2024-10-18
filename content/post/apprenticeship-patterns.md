@@ -3,7 +3,7 @@ author = "Og Maciel"
 title = "Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman by Dave H Hoover, Adewale Oshineye"
 date = "2024-09-17"
 description = "Book recommendation for the book Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman by Dave H Hoover, Adewale Oshineye."
-featured = true
+featured = false
 tags = [
     "Dave H Hoover",
     "Adewale Oshineye",

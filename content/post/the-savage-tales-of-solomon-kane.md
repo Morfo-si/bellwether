@@ -3,7 +3,7 @@ author = "Og Maciel"
 title = "The Savage Tales of Solomon Kane by Robert E. Howard"
 date = "2024-09-24"
 description = "Book recommendation for the book The Savage Tales of Solomon Kane by Robert E. Howard."
-featured = true
+featured = false
 tags = [
     "Robert E Howard",
     "American",

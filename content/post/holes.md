@@ -24,7 +24,7 @@ thumbnail = "/images/holes.jpg"
 +++
 Hey everyone, this is Og Maciel with another exciting book recommendation from Bellwether. This week, I’m bringing you a young adult book that I first read back in 2021—[*Holes*](https://www.goodreads.com/book/show/38709.Holes) by [Louis Sachar](https://www.goodreads.com/author/show/12539.Louis_Sachar).
 
-The story revolves around Stanley Yelnats, a young kid who one day finds himself unexpectedly in trouble. While walking down the street, a pair of sneakers suddenly fall from the sky and land on him. Before Stanley knows it, he’s being accused of stealing those sneakers! Turns out, they belonged to a famous athlete, and since the shoes were stolen, Stanley is sent to Camp Green Lake, a juvenile detention center. 
+The story revolves around Stanley Yelnats, a young kid who one day finds himself unexpectedly in trouble. While walking down the street, a pair of sneakers suddenly fall from the sky and land on him. Before Stanley knows it, he’s being accused of stealing those sneakers! Turns out, they belonged to a famous athlete, and since the shoes were stolen, Stanley is sent to Camp Green Lake, a juvenile detention center.
 
 Camp Green Lake isn’t what its name suggests—there’s no lake, and the camp is located in the middle of a desert. The boys there are subjected to forced labor, where they must dig holes every day. These aren’t just random holes; they have to be dug to very specific measurements. It’s all supposedly meant to "build character," but as the story progresses, we start to uncover why these boys are really digging these holes.
 

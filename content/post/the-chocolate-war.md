@@ -3,7 +3,7 @@ author = "Og Maciel"
 title = "The Chocolate War by Robert Cormier"
 date = "2024-10-01"
 description = "Og Maciel recommends The Chocolate War by Robert Cormier—a gripping tale of rebellion, peer pressure, and standing up against the system."
-featured = true
+featured = false
 tags = [
     "Robert Cormier",
     "American",

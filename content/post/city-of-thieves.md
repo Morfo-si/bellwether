@@ -3,7 +3,7 @@ author = "Og Maciel"
 title = "City of Thieves by David Benioff"
 date = "2024-10-08"
 description = "Og Maciel recommends City of Thieves by David Benioff—a tale of friendship, survival, and humor set during the siege of Leningrad."
-featured = true
+featured = false
 tags = [
     "David Benioff",
     "American",

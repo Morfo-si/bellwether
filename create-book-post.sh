@@ -37,7 +37,7 @@ categories = [
 ]
 series = ["Book Recommendation"]
 aliases = ["book-recommendation-fiction"]
-thumbnail = "/images/$KEBAB_TITLE.jpeg"
+thumbnail = "/images/$KEBAB_TITLE.jpg"
 +++
 EOF
 

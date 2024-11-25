@@ -3,7 +3,7 @@ author = "Og Maciel"
 title = "Tiny Habits by B.J. Fogg"
 date = "2024-10-15"
 description = "Og Maciel recommends Tiny Habits by B.J. Fogg—a practical, no-stress guide to building life-changing habits through small, achievable actions."
-featured = true
+featured = false
 tags = [
     "B.J. Fogg",
     "American",

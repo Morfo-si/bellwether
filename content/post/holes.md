@@ -3,7 +3,7 @@ author = "Og Maciel"
 title = "Holes by Louis Sachar"
 date = "2024-10-22"
 description = "Og Maciel recommends Holes by Louis Sachar—a clever and heartwarming young adult novel about friendship, perseverance, and hidden secrets."
-featured = true
+featured = false
 tags = [
     "Louis Sachar",
     "American",

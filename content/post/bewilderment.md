@@ -7,6 +7,7 @@ featured = true
 tags = [
     "Book Review",
     "Fiction",
+    "Richard Powers",
     "Science Fiction",
     "Audiobook",
     "Literary Fiction",

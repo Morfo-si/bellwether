@@ -3,7 +3,7 @@ author = "Og Maciel"
 title = "The Complete Frank Miller Batman by Frank Miller"
 date = "2024-10-29"
 description = "Og Maciel recommends The Complete Frank Miller Batman by Frank Miller—a definitive, dark take on the iconic hero’s journey."
-featured = true
+featured = false
 tags = [
     "Frank Miller",
     "American",

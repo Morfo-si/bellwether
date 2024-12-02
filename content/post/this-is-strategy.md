@@ -18,7 +18,7 @@ categories = [
     "recommendation"
 ]
 series = ["Book Recommendation"]
-aliases = ["book-recommendation-fiction"]
+aliases = ["book-recommendation-nonfiction"]
 thumbnail = "/images/this-is-strategy.jpg"
 +++
 Hey everyone, this is Og Maciel with another book recommendation for Bellwether.

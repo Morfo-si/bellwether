@@ -3,7 +3,7 @@ author = "Og Maciel"
 title = "Hamilton: the Revolution by Lin-Manuel Miranda, Jeremy McCarter"
 date = "2024-11-05"
 description = "Og Maciel recommends Hamilton: The Revolution by Lin-Manuel Miranda and Jeremy McCarter—a captivating look behind the scenes of the iconic musical."
-featured = true
+featured = false
 tags = [
     "Book Review",
     "Lin-Manuel Miranda",

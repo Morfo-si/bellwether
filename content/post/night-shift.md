@@ -3,7 +3,7 @@ author = "Og Maciel"
 title = "Night Shift by Stephen King"
 date = "2024-11-12"
 description = "Og Maciel recommends Night Shift by Stephen King-- a haunting collection of short stories spanning supernatural horror to sci-fi chills—perfect for a slow, spine-tingling read."
-featured = true
+featured = false
 tags = [
     "Stephen King",
     "Horror",

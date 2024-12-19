@@ -3,7 +3,7 @@ author = "Og Maciel"
 title = "Cabin: Off the Grid Adventures with a Clueless Craftsman by Patrick Hutchison"
 date = "2024-12-17"
 description = "Og Maciel recommends Cabin: Off the Grid Adventures with a Clueless Craftsman by Patrick Hutchison—a humorous, inspiring memoir about escaping the grind, finding purpose, and embracing simplicity."
-featured = false
+featured = true
 tags = [
     "Book Review",
     "Patrick Hutchison",

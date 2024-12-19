@@ -3,7 +3,7 @@ author = "Og Maciel"
 title = "This is Strategy by Seth Godin"
 date = "2024-11-19"
 description = "Discover actionable insights on strategy, growth, and leadership with This is Strategy by Seth Godin—essential reading for modern entrepreneurs and visionaries."
-featured = true
+featured = false
 tags = [
     "Book Review",
     "Fiction",

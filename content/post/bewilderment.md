@@ -3,7 +3,7 @@ author = "Og Maciel"
 title = "Bewilderment by Richard Powers"
 date = "2024-11-26"
 description = "Og Maciel recommends Bewilderment by Richard Powers: a beautiful, heart-rending story of love, loss, AI, and parenting."
-featured = true
+featured = false
 tags = [
     "Book Review",
     "Fiction",
